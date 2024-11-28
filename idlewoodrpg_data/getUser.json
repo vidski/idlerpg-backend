@@ -1,0 +1,486 @@
+{
+    "user": {
+        "displayName": "Vid",
+        "action": {
+            "startDate": "2024-11-21T09:38:26.563Z",
+            "seed": "2024-11-21T09:38:26.563ZvQnUQEUKodgqq4JDpFYHNWXrNqO20.9542149157103685",
+            "skillId": "1",
+            "actionId": "12",
+            "history": {
+                "monster": null,
+                "character": null,
+                "monsterIndex": {
+                    "index": 0
+                },
+                "expLoop": 0,
+                "potionLoop": 0,
+                "expOverflow": 0.6000000000000156,
+                "reviveCount": 0,
+                "progress": 38,
+                "loops": 1634,
+                "actionAmount": 22,
+                "loot": {
+                    "12": {
+                        "id": "12",
+                        "amount": 21
+                    },
+                    "302": {
+                        "id": "302",
+                        "amount": 1
+                    }
+                }
+            }
+        },
+        "automations": {},
+        "inventory": {
+            "10": {
+                "amount": 36495,
+                "id": "10"
+            },
+            "12": {
+                "id": "12",
+                "amount": 4033
+            },
+            "20": {
+                "amount": 22996,
+                "id": "20"
+            },
+            "30": {
+                "amount": 235,
+                "id": "30"
+            },
+            "40": {
+                "amount": 16,
+                "id": "40"
+            },
+            "100": {
+                "amount": 1,
+                "id": "100"
+            },
+            "300": {
+                "amount": 1821,
+                "id": "300"
+            },
+            "302": {
+                "id": "302",
+                "amount": 239
+            },
+            "305": {
+                "amount": 23,
+                "id": "305"
+            },
+            "306": {
+                "amount": 4,
+                "id": "306"
+            },
+            "402": {
+                "amount": 3,
+                "id": "402"
+            },
+            "404": {
+                "amount": 100,
+                "id": "404"
+            },
+            "1020": {
+                "amount": 3,
+                "id": "1020"
+            }
+        },
+        "skills": {
+            "1": {
+                "exp": 239011
+            },
+            "2": {
+                "exp": 111922
+            },
+            "3": {
+                "exp": 14
+            },
+            "4": {
+                "exp": 748
+            },
+            "6": {
+                "exp": 0
+            },
+            "7": {
+                "exp": 0
+            },
+            "8": {
+                "exp": 0
+            },
+            "9": {
+                "exp": 243
+            },
+            "10": {
+                "exp": 19
+            },
+            "11": {
+                "exp": 0
+            },
+            "12": {
+                "exp": 0
+            },
+            "13": {
+                "exp": 0
+            },
+            "14": {
+                "exp": 0
+            },
+            "15": {
+                "exp": 0
+            }
+        },
+        "coins": 540,
+        "state": {
+            "hungerHealth": 0,
+            "hungerOverflow": 0
+        },
+        "market": {
+            "records": [],
+            "coins": 0,
+            "items": {}
+        },
+        "badges": {
+            "1": {
+                "addedAt": "2024-07-05T23:47:08.485Z",
+                "id": "1"
+            },
+            "4": {
+                "id": "4",
+                "addedAt": "2024-07-06T00:00:00.000Z"
+            }
+        },
+        "badgeId": "1",
+        "equipment": {
+            "1": {
+                "amount": 1,
+                "id": "202"
+            },
+            "2": {
+                "amount": 1,
+                "id": "104"
+            },
+            "3": {
+                "amount": 1,
+                "id": "2800"
+            },
+            "4": null,
+            "5": null,
+            "6": null,
+            "10": null,
+            "11": null,
+            "12": null,
+            "13": null,
+            "14": null,
+            "15": null,
+            "16": null,
+            "17": null,
+            "18": null,
+            "19": null,
+            "20": null,
+            "21": null,
+            "22": null,
+            "50": null,
+            "51": null,
+            "52": null,
+            "53": null,
+            "54": null,
+            "55": null,
+            "100": {
+                "amount": 1,
+                "id": "200"
+            },
+            "101": {
+                "amount": 1,
+                "id": "201"
+            },
+            "103": {
+                "amount": 1,
+                "id": "204"
+            },
+            "104": {
+                "amount": 1,
+                "id": "205"
+            },
+            "199": null,
+            "200": null,
+            "202": null,
+            "203": null,
+            "204": null,
+            "205": null,
+            "250": null,
+            "251": null,
+            "252": null,
+            "254": null,
+            "255": null
+        },
+        "pets": {
+            "ranch": [],
+            "hatchery": {},
+            "hatcheryQueue": {},
+            "structures": {},
+            "team": [
+                1,
+                2,
+                3
+            ],
+            "storage": {
+                "1": {
+                    "createdAt": "2024-07-05T23:48:09.888Z",
+                    "petId": 1,
+                    "displayName": null,
+                    "id": "18",
+                    "exp": 0,
+                    "bonuses": {
+                        "defense": 15,
+                        "attack": 15,
+                        "health": 25
+                    },
+                    "passives": [
+                        "10"
+                    ]
+                },
+                "2": {
+                    "createdAt": "2024-07-05T23:48:09.888Z",
+                    "petId": 2,
+                    "displayName": null,
+                    "id": "12",
+                    "exp": 0,
+                    "bonuses": {
+                        "defense": 15,
+                        "attack": 25,
+                        "health": 15
+                    },
+                    "passives": [
+                        "20"
+                    ]
+                },
+                "3": {
+                    "createdAt": "2024-07-05T23:48:09.888Z",
+                    "petId": 3,
+                    "displayName": null,
+                    "id": "11",
+                    "exp": 0,
+                    "bonuses": {
+                        "defense": 25,
+                        "attack": 15,
+                        "health": 15
+                    },
+                    "passives": [
+                        "30"
+                    ]
+                }
+            }
+        },
+        "charcoal": 0,
+        "challenge": null,
+        "challenges": {
+            "buyAmount": 0,
+            "resetAt": "2024-07-07T13:59:59.999Z",
+            "scrollAmount": 0,
+            "scrollResetAt": "2024-07-06T13:59:59.999Z"
+        },
+        "stats": {
+            "quests": {
+                "amount": 4
+            },
+            "challenges": {
+                "amount": 0,
+                "tomesFound": 0,
+                "chestsOpened": 0
+            },
+            "guild": {},
+            "pets": {
+                "totalFound": {
+                    "11": 1,
+                    "12": 1,
+                    "18": 1
+                }
+            },
+            "tutorial": {
+                "step": 4
+            },
+            "totalExp": 351957,
+            "totalLevel": 80
+        },
+        "quests": {
+            "autoComplete": 0,
+            "reset": "2024-07-17T23:59:59.999Z",
+            "complete": 1,
+            "actions": {
+                "1": {
+                    "reward": {
+                        "coins": 1500,
+                        "exp": 3000
+                    },
+                    "skillId": "1",
+                    "amount": {
+                        "current": 0,
+                        "required": 15
+                    },
+                    "actionId": "10",
+                    "complete": false
+                },
+                "2": {
+                    "reward": {
+                        "coins": 1300,
+                        "exp": 2600
+                    },
+                    "skillId": "2",
+                    "amount": {
+                        "current": 1,
+                        "required": 15
+                    },
+                    "actionId": "20",
+                    "complete": false
+                },
+                "3": {
+                    "reward": {
+                        "coins": 100,
+                        "exp": 200
+                    },
+                    "skillId": "3",
+                    "amount": {
+                        "current": 0,
+                        "required": 5
+                    },
+                    "actionId": "30",
+                    "complete": false
+                },
+                "4": {
+                    "reward": {
+                        "coins": 300,
+                        "exp": 600
+                    },
+                    "skillId": "4",
+                    "amount": {
+                        "current": 0,
+                        "required": 5
+                    },
+                    "actionId": "208",
+                    "complete": false
+                },
+                "6": {
+                    "reward": {
+                        "coins": 50,
+                        "exp": 100
+                    },
+                    "skillId": "6",
+                    "amount": {
+                        "current": 0,
+                        "required": 5
+                    },
+                    "actionId": "319",
+                    "complete": false
+                },
+                "7": {
+                    "reward": {
+                        "coins": 50,
+                        "exp": 100
+                    },
+                    "skillId": "7",
+                    "amount": {
+                        "current": 0,
+                        "required": 5
+                    },
+                    "actionId": "319",
+                    "complete": false
+                },
+                "8": {
+                    "reward": {
+                        "coins": 50,
+                        "exp": 100
+                    },
+                    "skillId": "8",
+                    "amount": {
+                        "current": 0,
+                        "required": 5
+                    },
+                    "actionId": "302",
+                    "complete": false
+                },
+                "9": {
+                    "reward": {
+                        "coins": 50,
+                        "exp": 100
+                    },
+                    "skillId": "9",
+                    "amount": {
+                        "current": 30,
+                        "required": 5
+                    },
+                    "actionId": "40",
+                    "complete": true
+                },
+                "10": {
+                    "reward": {
+                        "coins": 50,
+                        "exp": 100
+                    },
+                    "skillId": "10",
+                    "amount": {
+                        "current": 4,
+                        "required": 5
+                    },
+                    "actionId": "50",
+                    "complete": false
+                },
+                "11": {
+                    "reward": {
+                        "coins": 50,
+                        "exp": 100
+                    },
+                    "skillId": "11",
+                    "amount": {
+                        "current": 0,
+                        "required": 5
+                    },
+                    "actionId": "70",
+                    "complete": false
+                },
+                "12": {
+                    "reward": {
+                        "coins": 50,
+                        "exp": 100
+                    },
+                    "skillId": "12",
+                    "amount": {
+                        "current": 0,
+                        "required": 5
+                    },
+                    "actionId": "710",
+                    "complete": false
+                },
+                "13": {
+                    "reward": {
+                        "coins": 50,
+                        "exp": 100
+                    },
+                    "skillId": "13",
+                    "amount": {
+                        "current": 0,
+                        "required": 5
+                    },
+                    "actionId": "350",
+                    "complete": false
+                },
+                "14": {
+                    "reward": {
+                        "coins": 50,
+                        "exp": 100
+                    },
+                    "skillId": "14",
+                    "amount": {
+                        "current": 0,
+                        "required": 5
+                    },
+                    "actionId": "302",
+                    "complete": false
+                }
+            }
+        },
+        "createdAt": "2023-09-03T08:02:48.627Z"
+    },
+    "version": "v1.2.5",
+    "time": "2024-11-21T09:41:10.157Z"
+}

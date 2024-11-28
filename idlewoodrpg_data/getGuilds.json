@@ -1,0 +1,2464 @@
+{
+    "guilds": [
+        {
+            "id": "Qjt9U78fiovdlK2KLWf2",
+            "displayName": "Vanguard",
+            "leaderName": "Miccyboi",
+            "memberCount": 24,
+            "requestCount": 0,
+            "requestOptions": {
+                "open": true,
+                "minExp": 10000000
+            },
+            "description": "Looking for active members who can help out on quests, buildings, etc.",
+            "exp": 67452728,
+            "requested": false
+        },
+        {
+            "id": "2KVNVSv1sdK9c0oo58Jv",
+            "displayName": "Ungovernable",
+            "leaderName": "bbotha",
+            "memberCount": 22,
+            "requestCount": 0,
+            "requestOptions": {
+                "open": true,
+                "minExp": 10000000
+            },
+            "description": "Join our Discord - https://discord.gg/rddXXVWS4T",
+            "exp": 64638466,
+            "requested": false
+        },
+        {
+            "id": "LazUJXQRUgkybuof84ZO",
+            "displayName": "Fallen",
+            "leaderName": "Chissy",
+            "memberCount": 24,
+            "requestCount": 0,
+            "requestOptions": {
+                "open": true,
+                "minExp": 3000000
+            },
+            "description": "Guild Hall / Library / Bank Lv. 4 | Other Buildings Lv. 3 | Active Discord | 2x Events / week | Minimum 10k Donation / day",
+            "exp": 56517207,
+            "requested": false
+        },
+        {
+            "id": "nrp5C58X7CjUM3ksCwAr",
+            "displayName": "NULL",
+            "leaderName": "fruloo",
+            "memberCount": 24,
+            "requestCount": 0,
+            "requestOptions": {
+                "minExp": 0,
+                "open": false
+            },
+            "description": "Must join the Discord server in order to be accepted: https://discord.gg/WzJ35aX3AW",
+            "exp": 56491856,
+            "requested": false
+        },
+        {
+            "id": "XSsz6IuJJcoAPyPebNuj",
+            "displayName": "SimpSquad",
+            "leaderName": "Shandril",
+            "memberCount": 24,
+            "requestCount": 0,
+            "requestOptions": {
+                "open": true,
+                "minExp": 1500000
+            },
+            "description": "We expect contribution to daily guild quests, guild events, and to the requirements of upgrading guild buildings. You gain a permanent +% Skill Efficiency for all skills when you join us. Welcome!",
+            "exp": 55502157,
+            "requested": false
+        },
+        {
+            "id": "URNG8lmYhXX40lhERtnV",
+            "displayName": "YouRevMyEngine",
+            "leaderName": "Reff",
+            "memberCount": 23,
+            "requestCount": 0,
+            "requestOptions": {
+                "open": true,
+                "minExp": 5000000
+            },
+            "exp": 50709252,
+            "requested": false
+        },
+        {
+            "id": "M9n7TXJ7svqvHD0Tu5CQ",
+            "displayName": "BrighterShores",
+            "leaderName": "Alerion",
+            "memberCount": 24,
+            "requestCount": 0,
+            "requestOptions": {
+                "minExp": 0,
+                "open": false
+            },
+            "description": "Please join the events if able to participate. ",
+            "exp": 50355244,
+            "requested": false
+        },
+        {
+            "id": "JjTYaNQjEM9MjRTd2nBJ",
+            "displayName": "MilkyWayIdlers",
+            "leaderName": "Binh",
+            "memberCount": 23,
+            "requestCount": 0,
+            "requestOptions": {
+                "open": false,
+                "minExp": 60000
+            },
+            "description": "We suggest you join us in Milky Way Idle! https://www.milkywayidle.com/",
+            "exp": 49649405,
+            "requested": false
+        },
+        {
+            "id": "RTwJ0lnqPqU9rD8C9fjv",
+            "displayName": "Studio",
+            "leaderName": "KoJack",
+            "memberCount": 24,
+            "requestCount": 0,
+            "requestOptions": {
+                "open": true,
+                "minExp": 5000000
+            },
+            "description": "Welcome :D Chill guild",
+            "exp": 47185198,
+            "requested": false
+        },
+        {
+            "id": "qUH00MvcogZRs2lHf1Iq",
+            "displayName": "SoloLeveling",
+            "leaderName": "Show",
+            "memberCount": 14,
+            "requestCount": 0,
+            "requestOptions": {
+                "open": true,
+                "minExp": 3000000
+            },
+            "description": "Active guild. Requirements 20k coins/day. Questions discord s_h_o_w",
+            "exp": 47156262,
+            "requested": false
+        },
+        {
+            "id": "CvgoIsAYccKVoxCUNCpo",
+            "displayName": "ElvysovaBanda",
+            "leaderName": "Elvys02",
+            "memberCount": 21,
+            "requestCount": 0,
+            "requestOptions": {
+                "open": true,
+                "minExp": 0
+            },
+            "description": "Welcome our guild we are active and talk in our discord: https://discord.gg/wkghjTWXgm Donation 40k coin/daily (guild bank give you 40k daily)",
+            "exp": 46675558,
+            "requested": false
+        },
+        {
+            "id": "0TXKks6KiXxzjrq3nYrm",
+            "displayName": "Eveller",
+            "leaderName": "Loulounie",
+            "memberCount": 21,
+            "requestCount": 0,
+            "requestOptions": {
+                "minExp": 0,
+                "open": true
+            },
+            "exp": 45187310,
+            "requested": false
+        },
+        {
+            "id": "THYnL3z4vKPNjtPYSMzz",
+            "displayName": "Friendly",
+            "leaderName": "SunnyBunny",
+            "memberCount": 24,
+            "requestCount": 0,
+            "requestOptions": {
+                "open": true,
+                "minExp": 100
+            },
+            "description": "Join the Friendly discord (https://discord.gg/friendlysmmo) for our guild-thread (thread under the gamers-unite channel) where we discuss what needs to be done for the guild and have Friendly chats ",
+            "exp": 44997302,
+            "requested": false
+        },
+        {
+            "id": "kZwk8gxO5Qjoq17w3kRz",
+            "displayName": "AcolytesOfPablo",
+            "leaderName": "thejerfman",
+            "memberCount": 23,
+            "requestCount": 0,
+            "requestOptions": {
+                "minExp": 0,
+                "open": true
+            },
+            "description": "All Hail Pablo!",
+            "exp": 44863191,
+            "requested": false
+        },
+        {
+            "id": "jXA3BGonTbmtDdnsUhoG",
+            "displayName": "420",
+            "leaderName": "funkz",
+            "memberCount": 24,
+            "requestCount": 0,
+            "requestOptions": {
+                "open": true,
+                "minExp": 50000
+            },
+            "description": "420 Blaze It Every Day - contribute what you can and chillax.",
+            "exp": 43182113,
+            "requested": false
+        },
+        {
+            "id": "ReLemaXwMCSGDI1FaKFu",
+            "displayName": "Fate",
+            "leaderName": "Finn",
+            "memberCount": 21,
+            "requestCount": 0,
+            "requestOptions": {
+                "minExp": 0,
+                "open": false
+            },
+            "description": "Open to active english speaking players; discord required within 3 days of acceptance. ",
+            "exp": 42998623,
+            "requested": false
+        },
+        {
+            "id": "1ATxA3cIOM6Aype2TkFw",
+            "displayName": "NGA",
+            "leaderName": "Sleepyyy",
+            "memberCount": 23,
+            "requestCount": 0,
+            "requestOptions": {
+                "minExp": 0,
+                "open": false
+            },
+            "exp": 42737711,
+            "requested": false
+        },
+        {
+            "id": "bUxw6EZXffXWKKtQNWMD",
+            "displayName": "GOONS",
+            "leaderName": "Eshomlod",
+            "memberCount": 20,
+            "requestCount": 0,
+            "requestOptions": {
+                "minExp": 0,
+                "open": false
+            },
+            "description": "We're relaxed and don't have strict rules, we encourage members to participate and help fund guild events.  7d idle = kick, we will let you back in if you reapply.",
+            "exp": 42232092,
+            "requested": false
+        },
+        {
+            "id": "zUEImm4o0taxuN2BFv4t",
+            "displayName": "HolyGuanabanas",
+            "leaderName": "Robenya",
+            "memberCount": 23,
+            "requestCount": 0,
+            "requestOptions": {
+                "minExp": 0,
+                "open": true
+            },
+            "description": "Guild to chill, 1 week idle limit :D (donate as you wish)",
+            "exp": 39308301,
+            "requested": false
+        },
+        {
+            "id": "OpD0tkQbqpwGTYOAtfuW",
+            "displayName": "KissingIsGross",
+            "leaderName": "peeboy",
+            "memberCount": 17,
+            "requestCount": 0,
+            "requestOptions": {
+                "minExp": 0,
+                "open": true
+            },
+            "description": "beans",
+            "exp": 37016207,
+            "requested": false
+        },
+        {
+            "id": "hCoE2ppHhZG26Yj4txKG",
+            "displayName": "CouchCat",
+            "leaderName": "Chewbie",
+            "memberCount": 20,
+            "requestCount": 1,
+            "description": "",
+            "exp": 36595893,
+            "requested": false
+        },
+        {
+            "id": "eI6qe7RlvRoMtsFr2hvK",
+            "displayName": "TrainingGuild",
+            "leaderName": "Neniu",
+            "memberCount": 22,
+            "requestCount": 0,
+            "requestOptions": {
+                "open": false,
+                "minExp": 0
+            },
+            "description": "The Training Guild for active players. Inactive players will be kicked after more than seven days of inactivity and/or contributions. Exception: they have activated any gathering skill before.",
+            "exp": 36278767,
+            "requested": false
+        },
+        {
+            "id": "Ap0VthTka73JIXVT5vJ6",
+            "displayName": "CocaCola",
+            "leaderName": "Muyu98",
+            "memberCount": 22,
+            "requestCount": 0,
+            "requestOptions": {
+                "minExp": 0,
+                "open": false
+            },
+            "description": "Welcome to Coca cola!",
+            "exp": 35725609,
+            "requested": false
+        },
+        {
+            "id": "XxMUepA6kOhDSk38AgYW",
+            "displayName": "PlanetProspector",
+            "leaderName": "Daikon",
+            "memberCount": 23,
+            "requestCount": 0,
+            "requestOptions": {
+                "minExp": 0,
+                "open": true
+            },
+            "description": "Check out the official Discord for more details under guild-postings! Join us on https://discord.gg/wUnBjVkYTh and hand in your application.",
+            "exp": 34835398,
+            "requested": false
+        },
+        {
+            "id": "Af5dgwH5ACI4xfC28dde",
+            "displayName": "peepeepoopoo",
+            "leaderName": "Soew",
+            "memberCount": 24,
+            "requestCount": 0,
+            "requestOptions": {
+                "open": true,
+                "minExp": 420
+            },
+            "description": "Relaxed guild with Discord. Daily active. Full T3 guild and slowly ranking up.",
+            "exp": 34803640,
+            "requested": false
+        },
+        {
+            "id": "xTut1SJvRmfQwhoL5gEr",
+            "displayName": "Settlers",
+            "leaderName": "Webpartisan",
+            "memberCount": 15,
+            "requestCount": 0,
+            "requestOptions": {
+                "minExp": 0,
+                "open": true
+            },
+            "description": " ",
+            "exp": 33881291,
+            "requested": false
+        },
+        {
+            "id": "zHBjleMlb3rmEtlPVopY",
+            "displayName": "Gagagooshers",
+            "leaderName": "DukeTheMuke",
+            "memberCount": 19,
+            "requestCount": 0,
+            "requestOptions": {
+                "minExp": 0,
+                "open": true
+            },
+            "description": "Chill guild, looking forward to the growth of Ironwood.",
+            "exp": 31346483,
+            "requested": false
+        },
+        {
+            "id": "1vmecrxbuFstL7yNZaav",
+            "displayName": "LostCentury",
+            "leaderName": "profion",
+            "memberCount": 18,
+            "requestCount": 0,
+            "requestOptions": {
+                "minExp": 0,
+                "open": false
+            },
+            "exp": 29763673,
+            "requested": false
+        },
+        {
+            "id": "ja6xSQTIIJ1gsJ1cVCzw",
+            "displayName": "DeadPoetsSociety",
+            "leaderName": "ToastyToast",
+            "memberCount": 22,
+            "requestCount": 0,
+            "requestOptions": {
+                "minExp": 0,
+                "open": false
+            },
+            "description": "Welcome to DeadPoetsSociety, make sure to have fun but please be active. ",
+            "exp": 29500195,
+            "requested": false
+        },
+        {
+            "id": "eMNMixvKVgweVCiOdVBj",
+            "displayName": "Ascension",
+            "leaderName": "EvilDudeJohn",
+            "memberCount": 22,
+            "requestCount": 0,
+            "requestOptions": {
+                "open": true,
+                "minExp": 0
+            },
+            "exp": 29462426,
+            "requested": false
+        },
+        {
+            "id": "tIuFgznJ32A85fLds1u2",
+            "displayName": "OptimusCrime",
+            "leaderName": "Miyuki",
+            "memberCount": 14,
+            "requestCount": 0,
+            "requestOptions": {
+                "minExp": 1000000,
+                "open": false
+            },
+            "description": "We require a Daily Donation based on our Guild Income to expand even further :)",
+            "exp": 29141120,
+            "requested": false
+        },
+        {
+            "id": "gNN1JGHo3ncQq6yJmhWQ",
+            "displayName": "TheMovodians",
+            "leaderName": "Doodlebunny",
+            "memberCount": 22,
+            "requestCount": 0,
+            "exp": 27738463,
+            "requested": false
+        },
+        {
+            "id": "ISftMOjyyKT4t3rjZjz5",
+            "displayName": "Eureka",
+            "leaderName": "1danielk",
+            "memberCount": 7,
+            "requestCount": 0,
+            "requestOptions": {
+                "minExp": 50000,
+                "open": true
+            },
+            "description": "Eureka! 10k Coin Donations Daily is all we ask.",
+            "exp": 26855336,
+            "requested": false
+        },
+        {
+            "id": "WvbhCK6cIkWIPUKn3exg",
+            "displayName": "IWoodDoIt",
+            "leaderName": "wizziieee",
+            "memberCount": 13,
+            "requestCount": 0,
+            "requestOptions": {
+                "minExp": 0,
+                "open": true
+            },
+            "description": "Wood nation",
+            "exp": 26729801,
+            "requested": false
+        },
+        {
+            "id": "7ESq5sPDWnhfvLp7NArG",
+            "displayName": "LCFamily",
+            "leaderName": "Synogun",
+            "memberCount": 18,
+            "requestCount": 0,
+            "requestOptions": {
+                "minExp": 0,
+                "open": false
+            },
+            "description": "=):): Private Guild :(:(=",
+            "exp": 20628221,
+            "requested": false
+        },
+        {
+            "id": "xWyBKyxVCjbTn48iHBEK",
+            "displayName": "MorningWood",
+            "leaderName": "ZugZug",
+            "memberCount": 24,
+            "requestCount": 0,
+            "requestOptions": {
+                "minExp": 0,
+                "open": true
+            },
+            "description": "Casual guild but great progress. Looking for more active, casual members. Have big contributors and a discord.",
+            "exp": 20518292,
+            "requested": false
+        },
+        {
+            "id": "ZF8WeqbP3WJPQYnjH5zU",
+            "displayName": "GuildNameTaken",
+            "leaderName": "Anusiak",
+            "memberCount": 24,
+            "requestCount": 0,
+            "requestOptions": {
+                "minExp": 0,
+                "open": true
+            },
+            "description": "No requirements, do what you want, contribute to whatever you want. Have fun. ",
+            "exp": 19794545,
+            "requested": false
+        },
+        {
+            "id": "iuazG1N6EiwuD06A85QU",
+            "displayName": "SnorbClub",
+            "leaderName": "WheatThinSlur",
+            "memberCount": 9,
+            "requestCount": 0,
+            "requestOptions": {
+                "minExp": 420,
+                "open": true
+            },
+            "description": "snorb",
+            "exp": 19600578,
+            "requested": false
+        },
+        {
+            "id": "tklx6tYhQmJIm3bgPgX3",
+            "displayName": "WotI",
+            "leaderName": "xxWoodie69xx",
+            "memberCount": 15,
+            "requestCount": 0,
+            "exp": 18765578,
+            "requested": false
+        },
+        {
+            "id": "MCWvKis7GCNYF8uh58K2",
+            "displayName": "NekoNekoPlebs",
+            "leaderName": "Basil",
+            "memberCount": 16,
+            "requestCount": 0,
+            "requestOptions": {
+                "minExp": 1,
+                "open": false
+            },
+            "description": "meeeeow meeeeeeeow mrrrrp. Coolest kats in the wasteland, united and strong. :33",
+            "exp": 16744280,
+            "requested": false
+        },
+        {
+            "id": "51i8QnrZAEmSXmXZJhCc",
+            "displayName": "QLF",
+            "leaderName": "Bafbi",
+            "memberCount": 16,
+            "requestCount": 0,
+            "requestOptions": {
+                "minExp": 0,
+                "open": true
+            },
+            "description": "Que le farm",
+            "exp": 16394206,
+            "requested": false
+        },
+        {
+            "id": "IGYLr1uDxfjqAS6sQic1",
+            "displayName": "GPH",
+            "leaderName": "Hudon",
+            "memberCount": 11,
+            "requestCount": 0,
+            "description": "GPH guilde Fr/Qc casual/semi competitive  avec discord cherche joueurs motiver de tout niveau. Bonjour a vous et bienvenue.",
+            "exp": 15961764,
+            "requested": false
+        },
+        {
+            "id": "71LmxSnBZ2tpviXonnqu",
+            "displayName": "Ratz",
+            "leaderName": "Medalha",
+            "memberCount": 12,
+            "requestCount": 0,
+            "requestOptions": {
+                "minExp": 0,
+                "open": true
+            },
+            "exp": 14955883,
+            "requested": false
+        },
+        {
+            "id": "EWS0fJx34ObdAnhS9pPr",
+            "displayName": "Control",
+            "leaderName": "Grae",
+            "memberCount": 20,
+            "requestCount": 0,
+            "requestOptions": {
+                "minExp": 0,
+                "open": true
+            },
+            "description": "Father and Son build a guild. Join and become part of the business.",
+            "exp": 14461655,
+            "requested": false
+        },
+        {
+            "id": "PtIkXzxhkkpsBzgCv1zT",
+            "displayName": "Cool",
+            "leaderName": "ExcrementSniffer",
+            "memberCount": 13,
+            "requestCount": 0,
+            "requestOptions": {
+                "minExp": 0,
+                "open": true
+            },
+            "description": "No Requirements, Free to join & chill :D",
+            "exp": 12622116,
+            "requested": false
+        },
+        {
+            "id": "fKUvu3orzVZ7WW525Xwv",
+            "displayName": "Eggses",
+            "leaderName": "GEEESES",
+            "memberCount": 23,
+            "requestCount": 0,
+            "requestOptions": {
+                "minExp": 140000,
+                "open": true
+            },
+            "description": "Anyone welcome",
+            "exp": 12559062,
+            "requested": false
+        },
+        {
+            "id": "7ER3nM4GTCKIRa3adaZ8",
+            "displayName": "Iron",
+            "leaderName": "CheeseGrater",
+            "memberCount": 11,
+            "requestCount": 0,
+            "requestOptions": {
+                "minExp": 0,
+                "open": false
+            },
+            "description": "MESSAGE dr1zzled.d1ce ON DISCORD if you want to be let in! A guild for those doing the Ironman challenge (no market usage).",
+            "exp": 12288320,
+            "requested": false
+        },
+        {
+            "id": "5guLu1Ta4OPOLShCAKtC",
+            "displayName": "DTF",
+            "leaderName": "Pro",
+            "memberCount": 13,
+            "requestCount": 0,
+            "requestOptions": {
+                "minExp": 0,
+                "open": true
+            },
+            "description": "Down To Fk. Chill and Free to Join",
+            "exp": 12198227,
+            "requested": false
+        },
+        {
+            "id": "PkrhxxbBvJOQn1V9AG52",
+            "displayName": "Slyrith",
+            "leaderName": "qpdb",
+            "memberCount": 21,
+            "requestCount": 0,
+            "requestOptions": {
+                "minExp": 0,
+                "open": true
+            },
+            "description": "09/2024 - alive again - come as you are",
+            "exp": 11966291,
+            "requested": false
+        },
+        {
+            "id": "zCw59hCTdmnR6HtyEAiy",
+            "displayName": "BoneHurtingJuice",
+            "leaderName": "lYCl",
+            "memberCount": 24,
+            "requestCount": 0,
+            "requestOptions": {
+                "minExp": 0,
+                "open": true
+            },
+            "exp": 11921802,
+            "requested": false
+        },
+        {
+            "id": "U05Oyc2EUnDn7lL1zE4e",
+            "displayName": "Unshowered",
+            "leaderName": "Trizax",
+            "memberCount": 8,
+            "requestCount": 0,
+            "requestOptions": {
+                "minExp": 0,
+                "open": true
+            },
+            "description": "Maximize Xp, Skip the Shower! Hey [Insert Name Here], you've been hand-picked to join The Unshowered! Fun comes first hygiene is optional. Every minute in the shower is a minute of XP Lost. JOIN NOW!",
+            "exp": 10372500,
+            "requested": false
+        },
+        {
+            "id": "YnEmfAVTECuTh1VnehZe",
+            "displayName": "Kazaganthinites",
+            "leaderName": "Kazagantheus",
+            "memberCount": 11,
+            "requestCount": 0,
+            "requestOptions": {
+                "minExp": 0,
+                "open": false
+            },
+            "exp": 10317129,
+            "requested": false
+        },
+        {
+            "id": "epT52asOC1dhhUp6zSi5",
+            "displayName": "Resolve",
+            "leaderName": "BDnkies",
+            "memberCount": 17,
+            "requestCount": 0,
+            "requestOptions": {
+                "minExp": 0,
+                "open": false
+            },
+            "description": "Just starting :) Help out on quests and grind, learn the game with us!",
+            "exp": 10109936,
+            "requested": false
+        },
+        {
+            "id": "JIyDfSeWKwIDOrpYj6Wc",
+            "displayName": "hardwood",
+            "leaderName": "Veekboy",
+            "memberCount": 12,
+            "requestCount": 0,
+            "requestOptions": {
+                "open": true,
+                "minExp": 0
+            },
+            "description": "Our iron is warm and our wood is hard. Enjoy your stay.",
+            "exp": 9006134,
+            "requested": false
+        },
+        {
+            "id": "lCMGkYjgApBcbDZs6fKX",
+            "displayName": "Terminus",
+            "leaderName": "AgonizingDig",
+            "memberCount": 11,
+            "requestCount": 0,
+            "requestOptions": {
+                "minExp": 1000000,
+                "open": true
+            },
+            "description": "We are Terminus. Please donate to quests/buildings as much as you can",
+            "exp": 8920712,
+            "requested": false
+        },
+        {
+            "id": "lQpOyJ2baKz92ADt9KfS",
+            "displayName": "mosaics",
+            "leaderName": "sueshi",
+            "memberCount": 8,
+            "requestCount": 0,
+            "exp": 8641169,
+            "requested": false
+        },
+        {
+            "id": "PAkaVoBQwG3hayqC0Mfx",
+            "displayName": "Horaaa",
+            "leaderName": "stoyanman",
+            "memberCount": 5,
+            "requestCount": 0,
+            "requestOptions": {
+                "minExp": 0,
+                "open": true
+            },
+            "description": "Casual and beginner-friendly guild",
+            "exp": 7258506,
+            "requested": false
+        },
+        {
+            "id": "J1dHFvzIOgCQCbQI6VRS",
+            "displayName": "FriedRice",
+            "leaderName": "yizheng",
+            "memberCount": 9,
+            "requestCount": 0,
+            "requestOptions": {
+                "minExp": 0,
+                "open": false
+            },
+            "description": "Guild leader absent 9 days. Half of the guild inactive",
+            "exp": 7215577,
+            "requested": false
+        },
+        {
+            "id": "guSJNCJEctM9wFFj1Rcl",
+            "displayName": "Wkepe6epteh9ta",
+            "leaderName": "wke",
+            "memberCount": 5,
+            "requestCount": 0,
+            "requestOptions": {
+                "minExp": 0,
+                "open": true
+            },
+            "description": "GL&HF! https://t.me/+g1S5jl8NCVlkZjli",
+            "exp": 7165339,
+            "requested": false
+        },
+        {
+            "id": "3nuS3NYiSfurmqYBcouS",
+            "displayName": "Fracassados",
+            "leaderName": "GnomoWs",
+            "memberCount": 5,
+            "requestCount": 0,
+            "requestOptions": {
+                "open": false,
+                "minExp": 69
+            },
+            "description": "Vem ser fracassado (failure) voce tambem",
+            "exp": 6935192,
+            "requested": false
+        },
+        {
+            "id": "5CccG4EguM5C8fbXGNg4",
+            "displayName": "TopSecretDuck",
+            "leaderName": "grilledcheese",
+            "memberCount": 12,
+            "requestCount": 0,
+            "requestOptions": {
+                "minExp": 1000000,
+                "open": true
+            },
+            "description": "Join and become a top secret duck. We are currently defending against Russia.",
+            "exp": 6807507,
+            "requested": false
+        },
+        {
+            "id": "P65UshUSmLP1OiqnJFOc",
+            "displayName": "SimonSays",
+            "leaderName": "Silima",
+            "memberCount": 3,
+            "requestCount": 0,
+            "description": "Simon Says: A guild of dysfunctional and reckless adventurers who do quests and odd jobs for fun.",
+            "exp": 6774987,
+            "requested": false
+        },
+        {
+            "id": "2ko5mcXhIDDK7YsEcEO7",
+            "displayName": "Kingdom",
+            "leaderName": "Shuvo",
+            "memberCount": 5,
+            "requestCount": 0,
+            "description": "Join us in our Kingdom and let's grow together strong ",
+            "exp": 6009579,
+            "requested": false
+        },
+        {
+            "id": "3kApU90DYPvBt4fRfu4n",
+            "displayName": "Descartaveis",
+            "leaderName": "Kuranada",
+            "memberCount": 8,
+            "requestCount": 0,
+            "requestOptions": {
+                "minExp": 0,
+                "open": true
+            },
+            "exp": 5945653,
+            "requested": false
+        },
+        {
+            "id": "rWfDsVV39AlFXvrIp88J",
+            "displayName": "Eternaljack",
+            "leaderName": "luvbug",
+            "memberCount": 8,
+            "requestCount": 0,
+            "requestOptions": {
+                "open": true,
+                "minExp": 0
+            },
+            "description": "Welcome to Eternal Jack! ",
+            "exp": 5905355,
+            "requested": false
+        },
+        {
+            "id": "SGpzAKVgDVyBWywPALOY",
+            "displayName": "TMNT",
+            "leaderName": "Graedy09",
+            "memberCount": 8,
+            "requestCount": 0,
+            "requestOptions": {
+                "minExp": 0,
+                "open": true
+            },
+            "description": "We live in the sewers, fight crime and eat pizza",
+            "exp": 5770375,
+            "requested": false
+        },
+        {
+            "id": "RUfXHvHf4xWNxDSGMAzi",
+            "displayName": "DailyWoodChuck",
+            "leaderName": "Xylia",
+            "memberCount": 14,
+            "requestCount": 0,
+            "requestOptions": {
+                "minExp": 0,
+                "open": true
+            },
+            "description": "Join us!",
+            "exp": 5767765,
+            "requested": false
+        },
+        {
+            "id": "1pgM5gnxxwu7WwJgMOKM",
+            "displayName": "ExaltedPizza",
+            "leaderName": "RarePizza",
+            "memberCount": 10,
+            "requestCount": 0,
+            "requestOptions": {
+                "minExp": 0,
+                "open": true
+            },
+            "description": "https://discord.com/invite/smJ57Khp",
+            "exp": 5477548,
+            "requested": false
+        },
+        {
+            "id": "sUwApgWd7ntUDrLpygSw",
+            "displayName": "Champs",
+            "leaderName": "Cross",
+            "memberCount": 9,
+            "requestCount": 0,
+            "requestOptions": {
+                "minExp": 0,
+                "open": false
+            },
+            "description": "AFK Gathering Group, Laid Back.",
+            "exp": 5335248,
+            "requested": false
+        },
+        {
+            "id": "ebgvuY7W0f9QJXH5FWpL",
+            "displayName": "ATF",
+            "leaderName": "Vathien",
+            "memberCount": 7,
+            "requestCount": 0,
+            "requestOptions": {
+                "minExp": 0,
+                "open": true
+            },
+            "description": "Just a couple of gamers trying to progress. We play other games together and use discord for chats.",
+            "exp": 4658930,
+            "requested": false
+        },
+        {
+            "id": "WWvXR567LesTVr630Ew6",
+            "displayName": "MorningwoodRPG",
+            "leaderName": "dickballs",
+            "memberCount": 3,
+            "requestCount": 0,
+            "requestOptions": {
+                "minExp": 0,
+                "open": true
+            },
+            "description": "One-handed level 300!",
+            "exp": 4543167,
+            "requested": false
+        },
+        {
+            "id": "KNSj3ncPCds97LD2Wapj",
+            "displayName": "EndlessDreams",
+            "leaderName": "GrizzyGraves",
+            "memberCount": 5,
+            "requestCount": 0,
+            "exp": 4420212,
+            "requested": false
+        },
+        {
+            "id": "r6NMLQt1aMLGa4xeryZb",
+            "displayName": "HereToFarm",
+            "leaderName": "AnyaOctavia",
+            "memberCount": 2,
+            "requestCount": 0,
+            "requestOptions": {
+                "minExp": 0,
+                "open": true
+            },
+            "description": "all welcome have fun and try to help where u can (buildings/quests/events) lets have fun and Farm :)",
+            "exp": 4301095,
+            "requested": false
+        },
+        {
+            "id": "N7dLLCPRwiUEvrnFJ6lg",
+            "displayName": "Phantasmagoria",
+            "leaderName": "FelineFury",
+            "memberCount": 2,
+            "requestCount": 0,
+            "requestOptions": {
+                "minExp": 0,
+                "open": true
+            },
+            "description": "Now Recruiting [Applications Automatically Accepted].",
+            "exp": 4149732,
+            "requested": false
+        },
+        {
+            "id": "emMSLkJgfCbpycQRWn7b",
+            "displayName": "Sushi",
+            "leaderName": "niboshi",
+            "memberCount": 5,
+            "requestCount": 0,
+            "requestOptions": {
+                "minExp": 1000,
+                "open": true
+            },
+            "exp": 4094550,
+            "requested": false
+        },
+        {
+            "id": "8oX5RNwVShO2o1ZKQnhs",
+            "displayName": "OnlyCOOM",
+            "leaderName": "Bjaksel",
+            "memberCount": 4,
+            "requestCount": 0,
+            "requestOptions": {
+                "minExp": 0,
+                "open": true
+            },
+            "description": "Everyone is welcome to join, we have LVL 1 GuildBank + Events and a discord community :)",
+            "exp": 4076332,
+            "requested": false
+        },
+        {
+            "id": "a7DQaanKC6ISgb1uyY9U",
+            "displayName": "Brandyland",
+            "leaderName": "FluffyAlpaca",
+            "memberCount": 5,
+            "requestCount": 0,
+            "exp": 4040209,
+            "requested": false
+        },
+        {
+            "id": "ZwYej2g5iWVKo09RxWqa",
+            "displayName": "BMToo",
+            "leaderName": "CatchUp",
+            "memberCount": 7,
+            "requestCount": 0,
+            "requestOptions": {
+                "minExp": 1200000,
+                "open": true
+            },
+            "exp": 4016953,
+            "requested": false
+        },
+        {
+            "id": "feY3Brrqm89EV3lyMAwn",
+            "displayName": "dog",
+            "leaderName": "Collide",
+            "memberCount": 2,
+            "requestCount": 0,
+            "exp": 3778058,
+            "requested": false
+        },
+        {
+            "id": "YdEJGgpUjj4lQHAzDTU0",
+            "displayName": "nWo",
+            "leaderName": "Flagusdile",
+            "memberCount": 5,
+            "requestCount": 0,
+            "requestOptions": {
+                "minExp": 0,
+                "open": true
+            },
+            "description": "Idle and chill Guild. Join if you want, contribute if you can. No pressure, no discord.",
+            "exp": 3660405,
+            "requested": false
+        },
+        {
+            "id": "r7k1HpTlJOKEAdHdqrjl",
+            "displayName": "Memeshack",
+            "leaderName": "Izio",
+            "memberCount": 7,
+            "requestCount": 0,
+            "exp": 3580877,
+            "requested": false
+        },
+        {
+            "id": "NvOGZkyD7oWcson8XRpg",
+            "displayName": "LoneRangers",
+            "leaderName": "Giorgio",
+            "memberCount": 11,
+            "requestCount": 0,
+            "requestOptions": {
+                "minExp": 42069,
+                "open": true
+            },
+            "description": "42069 min xp just cuz",
+            "exp": 3552292,
+            "requested": false
+        },
+        {
+            "id": "DtEu8ti7BaFYG5dgiDAS",
+            "displayName": "QuebecFranco",
+            "leaderName": "YodaSpock",
+            "memberCount": 6,
+            "requestCount": 0,
+            "requestOptions": {
+                "minExp": 0,
+                "open": true
+            },
+            "description": "Bienvenue a tous les Quebecois! (et autres francophones sympathiques)",
+            "exp": 3402908,
+            "requested": false
+        },
+        {
+            "id": "e0VOvPPysGHnCkiQKLBf",
+            "displayName": "IchiNin",
+            "leaderName": "Vekra21",
+            "memberCount": 1,
+            "requestCount": 0,
+            "description": "Solo Ironman guild. Requests to join will be denied, sorry...",
+            "exp": 3015002,
+            "requested": false
+        },
+        {
+            "id": "752k5J4XbPieGE8cvEw1",
+            "displayName": "ArcticFury",
+            "leaderName": "Chaotic",
+            "memberCount": 4,
+            "requestCount": 1,
+            "requestOptions": {
+                "minExp": 0,
+                "open": false
+            },
+            "description": "What goes up doesnt have to come down",
+            "exp": 2973138,
+            "requested": false
+        },
+        {
+            "id": "w2U44pImsBVGdNzLllrK",
+            "displayName": "Schattenkrieger",
+            "leaderName": "Mortaim",
+            "memberCount": 2,
+            "requestCount": 0,
+            "requestOptions": {
+                "minExp": 0,
+                "open": true
+            },
+            "description": "Du suchst eine deutsche, entspannte Gilde? Dann bist du bei uns richtig! - https://discord.gg/qzPfx5hPAQ",
+            "exp": 2965294,
+            "requested": false
+        },
+        {
+            "id": "4oHMetooxsyMlAnyrrZk",
+            "displayName": "NPC",
+            "leaderName": "HarryPotter",
+            "memberCount": 4,
+            "requestCount": 4,
+            "exp": 2902665,
+            "requested": false
+        },
+        {
+            "id": "V49W2FdYLTPdlz5uvwV7",
+            "displayName": "SatelliteOfLove",
+            "leaderName": "TalonV",
+            "memberCount": 7,
+            "requestCount": 0,
+            "requestOptions": {
+                "minExp": 0,
+                "open": true
+            },
+            "description": "get me down!",
+            "exp": 2877083,
+            "requested": false
+        },
+        {
+            "id": "cKm9tCJmuyxDzQw73fkp",
+            "displayName": "Noir",
+            "leaderName": "Pati",
+            "memberCount": 4,
+            "requestCount": 2,
+            "requestOptions": {
+                "minExp": 0,
+                "open": false
+            },
+            "description": "Witam Pl",
+            "exp": 2874882,
+            "requested": false
+        },
+        {
+            "id": "9rQ0EIkQvoMjoZQ7MJt4",
+            "displayName": "GachaGamers",
+            "leaderName": "Risu",
+            "memberCount": 7,
+            "requestCount": 0,
+            "requestOptions": {
+                "minExp": 0,
+                "open": true
+            },
+            "description": "Welcome to GachaGamers! Feel free to join!",
+            "exp": 2789335,
+            "requested": false
+        },
+        {
+            "id": "IKpZKiOpPTSyYA1vc3L5",
+            "displayName": "Loners",
+            "leaderName": "Kandoras",
+            "memberCount": 1,
+            "requestCount": 0,
+            "requestOptions": {
+                "minExp": 0,
+                "open": true
+            },
+            "exp": 2648884,
+            "requested": false
+        },
+        {
+            "id": "HmRHrs6ZcNRlZZzn4Bzh",
+            "displayName": "MelvorExpat",
+            "leaderName": "Warhaft",
+            "memberCount": 4,
+            "requestCount": 0,
+            "requestOptions": {
+                "minExp": 0,
+                "open": true
+            },
+            "description": "When Melvor is not enough!",
+            "exp": 2643665,
+            "requested": false
+        },
+        {
+            "id": "FDv1wBhkoUM7cZtyiEIK",
+            "displayName": "Wyvernnest",
+            "leaderName": "Diyrn",
+            "memberCount": 3,
+            "requestCount": 0,
+            "requestOptions": {
+                "minExp": 0,
+                "open": true
+            },
+            "description": "Welcome to Wyvernnest. All are welcome.",
+            "exp": 2505591,
+            "requested": false
+        },
+        {
+            "id": "VZgWfX3xjZehFlB3EFix",
+            "displayName": "Pantheon",
+            "leaderName": "Carrot",
+            "memberCount": 16,
+            "requestCount": 0,
+            "requestOptions": {
+                "open": true,
+                "minExp": 0
+            },
+            "description": "discord.gg/K48sQfmQfa",
+            "exp": 2356021,
+            "requested": false
+        },
+        {
+            "id": "di1OvqxaZbEPrItvoq7e",
+            "displayName": "Number8",
+            "leaderName": "knocker",
+            "memberCount": 2,
+            "requestCount": 0,
+            "requestOptions": {
+                "minExp": 0,
+                "open": true
+            },
+            "exp": 2324010,
+            "requested": false
+        },
+        {
+            "id": "T90ZszvFS9gO6jwZjPG7",
+            "displayName": "CasualPangolins",
+            "leaderName": "Lorion",
+            "memberCount": 3,
+            "requestCount": 0,
+            "requestOptions": {
+                "minExp": 0,
+                "open": false
+            },
+            "description": "CasualPangolins is currently looking for pangolins, aardvarks and capybaras. Other animals will be considered.",
+            "exp": 2312419,
+            "requested": false
+        },
+        {
+            "id": "jSasZz4hUJZ79dSIhBKu",
+            "displayName": "WuTangFinancial",
+            "leaderName": "Katlyranna",
+            "memberCount": 4,
+            "requestCount": 0,
+            "exp": 2306879,
+            "requested": false
+        },
+        {
+            "id": "nbWkFbn7qZXaFGwlOgO1",
+            "displayName": "BiggieCheese",
+            "leaderName": "SnowBlood",
+            "memberCount": 5,
+            "requestCount": 0,
+            "requestOptions": {
+                "minExp": 0,
+                "open": true
+            },
+            "description": "/watch?v=pZ-oEuWMszs",
+            "exp": 2236362,
+            "requested": false
+        },
+        {
+            "id": "BhF7qR77HiDnsYD0E3gv",
+            "displayName": "IdleMaids",
+            "leaderName": "Chazenn",
+            "memberCount": 4,
+            "requestCount": 0,
+            "requestOptions": {
+                "minExp": 1,
+                "open": false
+            },
+            "description": "Please message chazenn or yuripiano on discord for more info :3",
+            "exp": 2235345,
+            "requested": false
+        },
+        {
+            "id": "HR2SfgfZ9cM0jIuprDGB",
+            "displayName": "Savior",
+            "leaderName": "MrTanuki",
+            "memberCount": 5,
+            "requestCount": 0,
+            "requestOptions": {
+                "open": true,
+                "minExp": 0
+            },
+            "description": "Welcome to Savior",
+            "exp": 2211361,
+            "requested": false
+        },
+        {
+            "id": "o75cmbvVbLGpkN7BfNVY",
+            "displayName": "eXoIronman",
+            "leaderName": "eXoShini",
+            "memberCount": 1,
+            "requestCount": 0,
+            "description": "One Player Ironman Guild",
+            "exp": 2108543,
+            "requested": false
+        },
+        {
+            "id": "t0pPGWtr3sSWS2X9ekD8",
+            "displayName": "alkyonis",
+            "leaderName": "bluwu",
+            "memberCount": 2,
+            "requestCount": 0,
+            "requestOptions": {
+                "minExp": 0,
+                "open": true
+            },
+            "exp": 2084082,
+            "requested": false
+        },
+        {
+            "id": "V56vttzEuFEITG7TnQkR",
+            "displayName": "ReinBallerZensus",
+            "leaderName": "SensoPls",
+            "memberCount": 2,
+            "requestCount": 0,
+            "exp": 2064825,
+            "requested": false
+        },
+        {
+            "id": "S9BfJWmikjUK1jZGZdG4",
+            "displayName": "BirchPlease",
+            "leaderName": "noot",
+            "memberCount": 18,
+            "requestCount": 0,
+            "requestOptions": {
+                "open": true,
+                "minExp": 0
+            },
+            "exp": 2028537,
+            "requested": false
+        },
+        {
+            "id": "mOKw9PqZ2xzPosyyViqb",
+            "displayName": "WhereIsMyUnicorn",
+            "leaderName": "Madersurfer",
+            "memberCount": 1,
+            "requestCount": 0,
+            "requestOptions": {
+                "minExp": 0,
+                "open": true
+            },
+            "description": "Plus on est de fous, plus on rit !",
+            "exp": 1967750,
+            "requested": false
+        },
+        {
+            "id": "PsqG7pMjt5cTi9c5v9W4",
+            "displayName": "TheCastle",
+            "leaderName": "RobIsACoolGuy",
+            "memberCount": 1,
+            "requestCount": 0,
+            "exp": 1942693,
+            "requested": false
+        },
+        {
+            "id": "8jHC39ozUvyI2jXVtwNJ",
+            "displayName": "KenOath",
+            "leaderName": "Fugazi",
+            "memberCount": 1,
+            "requestCount": 0,
+            "exp": 1893225,
+            "requested": false
+        },
+        {
+            "id": "2m982cVTCA0yMK7nmIPt",
+            "displayName": "DGK",
+            "leaderName": "Demolition",
+            "memberCount": 5,
+            "requestCount": 0,
+            "requestOptions": {
+                "minExp": 0,
+                "open": true
+            },
+            "exp": 1859280,
+            "requested": false
+        },
+        {
+            "id": "GKPEks2bp1ymGYj0d7lO",
+            "displayName": "RockAndStone",
+            "leaderName": "Dtayld",
+            "memberCount": 2,
+            "requestCount": 0,
+            "exp": 1803136,
+            "requested": false
+        },
+        {
+            "id": "wvHIosk8bwAmsAAU8aMB",
+            "displayName": "Idle",
+            "leaderName": "Genomics",
+            "memberCount": 6,
+            "requestCount": 0,
+            "requestOptions": {
+                "minExp": 0,
+                "open": true
+            },
+            "description": "Casual, LF friendly members! It's not a demanding guild.",
+            "exp": 1640886,
+            "requested": false
+        },
+        {
+            "id": "tyYTKd8ViLxX7oqgF2uV",
+            "displayName": "PetaniGold",
+            "leaderName": "MancingMania",
+            "memberCount": 6,
+            "requestCount": 0,
+            "requestOptions": {
+                "minExp": 0,
+                "open": true
+            },
+            "exp": 1574906,
+            "requested": false
+        },
+        {
+            "id": "pSwAHkAwFIBusizo80t6",
+            "displayName": "AlphabetMafia",
+            "leaderName": "lavenderspliffs",
+            "memberCount": 2,
+            "requestCount": 0,
+            "description": "Can you swing a sack of doorknobs?",
+            "exp": 1532299,
+            "requested": false
+        },
+        {
+            "id": "bqKo64YFsoxSlaDhX0IY",
+            "displayName": "ASoloGuild",
+            "leaderName": "Morgan522",
+            "memberCount": 1,
+            "requestCount": 0,
+            "exp": 1497915,
+            "requested": false
+        },
+        {
+            "id": "sihxMBShcd1NAbbTSrYH",
+            "displayName": "PerfectCopper",
+            "leaderName": "lachszunge",
+            "memberCount": 2,
+            "requestCount": 0,
+            "requestOptions": {
+                "minExp": 0,
+                "open": true
+            },
+            "exp": 1433782,
+            "requested": false
+        },
+        {
+            "id": "XnmuVEOQR40uZ2MOlb57",
+            "displayName": "JediAcademy",
+            "leaderName": "KingYoda",
+            "memberCount": 1,
+            "requestCount": 0,
+            "requestOptions": {
+                "minExp": 0,
+                "open": true
+            },
+            "exp": 1426001,
+            "requested": false
+        },
+        {
+            "id": "Wokm1IdJx7liTvmF87fs",
+            "displayName": "Shendai",
+            "leaderName": "Kaladaran",
+            "memberCount": 1,
+            "requestCount": 0,
+            "exp": 1394089,
+            "requested": false
+        },
+        {
+            "id": "zFxKBIxBTbHVRf9ALSkR",
+            "displayName": "OwO",
+            "leaderName": "Elisvayn",
+            "memberCount": 1,
+            "requestCount": 0,
+            "exp": 1381163,
+            "requested": false
+        },
+        {
+            "id": "3lYWYTDkVQnsVTX1cq6R",
+            "displayName": "MadejahEGO",
+            "leaderName": "Madejah",
+            "memberCount": 4,
+            "requestCount": 0,
+            "exp": 1354355,
+            "requested": false
+        },
+        {
+            "id": "RfrcRIIOQmtAAT65yvwx",
+            "displayName": "RPGFarmers",
+            "leaderName": "Pacroon",
+            "memberCount": 2,
+            "requestCount": 0,
+            "requestOptions": {
+                "minExp": 0,
+                "open": true
+            },
+            "exp": 1308156,
+            "requested": false
+        },
+        {
+            "id": "2Wj6bg5Cuegbkt65RTwZ",
+            "displayName": "OnePiece",
+            "leaderName": "DariusK",
+            "memberCount": 1,
+            "requestCount": 0,
+            "requestOptions": {
+                "minExp": 0,
+                "open": true
+            },
+            "exp": 1270880,
+            "requested": false
+        },
+        {
+            "id": "6S6sXzRFxQ0yuvcwwYN5",
+            "displayName": "Umhaill",
+            "leaderName": "Mhaille",
+            "memberCount": 4,
+            "requestCount": 0,
+            "requestOptions": {
+                "minExp": 0,
+                "open": true
+            },
+            "description": "All welcome, no requirements, no expectations, no plans; do whatever.",
+            "exp": 1226774,
+            "requested": false
+        },
+        {
+            "id": "cjlDscbPw8zaFlK33GkV",
+            "displayName": "PleasurePalace",
+            "leaderName": "AllFettUp",
+            "memberCount": 1,
+            "requestCount": 0,
+            "requestOptions": {
+                "minExp": 250000,
+                "open": true
+            },
+            "exp": 1189755,
+            "requested": false
+        },
+        {
+            "id": "b3t3IpwMZNSNWKKWp53k",
+            "displayName": "SelfSufficient",
+            "leaderName": "Kedi",
+            "memberCount": 1,
+            "requestCount": 0,
+            "description": "As with my account, this guild is no trading or help from other players.",
+            "exp": 1185285,
+            "requested": false
+        },
+        {
+            "id": "u45ak2CjdIxvWsEFnSdC",
+            "displayName": "Forsaken",
+            "leaderName": "Grimaldin",
+            "memberCount": 1,
+            "requestCount": 0,
+            "requestOptions": {
+                "minExp": 0,
+                "open": true
+            },
+            "description": "Anyone is welcome to join. Just be active and Donate what you can.",
+            "exp": 1156136,
+            "requested": false
+        },
+        {
+            "id": "adv3kqq6zlAiXfM9fOui",
+            "displayName": "OdinokiyVolk",
+            "leaderName": "Phixyn",
+            "memberCount": 1,
+            "requestCount": 0,
+            "requestOptions": {
+                "minExp": 7777777,
+                "open": false
+            },
+            "exp": 1146454,
+            "requested": false
+        },
+        {
+            "id": "rUDxFYTmNZfZjYKvlDaY",
+            "displayName": "hjklIronman",
+            "leaderName": "hjkl",
+            "memberCount": 1,
+            "requestCount": 0,
+            "exp": 1090576,
+            "requested": false
+        },
+        {
+            "id": "9wmzuQZkFRjHKskaGGko",
+            "displayName": "Polska",
+            "leaderName": "ViPPL",
+            "memberCount": 1,
+            "requestCount": 0,
+            "requestOptions": {
+                "open": true,
+                "minExp": 25000000
+            },
+            "exp": 1059097,
+            "requested": false
+        },
+        {
+            "id": "fBl5VBhtFoxvG4pFfNUL",
+            "displayName": "RollGronks4Vapes",
+            "leaderName": "Affy",
+            "memberCount": 3,
+            "requestCount": 0,
+            "requestOptions": {
+                "minExp": 0,
+                "open": true
+            },
+            "description": "Get em boys",
+            "exp": 1051096,
+            "requested": false
+        },
+        {
+            "id": "bp87RTIzIBB1yf6NuBW5",
+            "displayName": "CoolGuildName",
+            "leaderName": "Zarka",
+            "memberCount": 6,
+            "requestCount": 0,
+            "requestOptions": {
+                "minExp": 150000,
+                "open": true
+            },
+            "exp": 1009121,
+            "requested": false
+        },
+        {
+            "id": "JkmJLMq9TlXkuHTPofqZ",
+            "displayName": "FeWoodMob",
+            "leaderName": "ScapeRune",
+            "memberCount": 5,
+            "requestCount": 0,
+            "requestOptions": {
+                "minExp": 0,
+                "open": true
+            },
+            "exp": 1006332,
+            "requested": false
+        },
+        {
+            "id": "0XytsV3kbXARadYt15qa",
+            "displayName": "Hallowwood",
+            "leaderName": "pben",
+            "memberCount": 2,
+            "requestCount": 0,
+            "requestOptions": {
+                "minExp": 0,
+                "open": true
+            },
+            "description": "Casual guild, inactive members will be removed. Please contribute!",
+            "exp": 918458,
+            "requested": false
+        },
+        {
+            "id": "IGeiapQXTbtiOHNkTU4o",
+            "displayName": "ChateauJuul",
+            "leaderName": "juulsezaar",
+            "memberCount": 1,
+            "requestCount": 0,
+            "exp": 904503,
+            "requested": false
+        },
+        {
+            "id": "Npc38gLYwfezTSgNquGT",
+            "displayName": "Rotten",
+            "leaderName": "Krenjeroth",
+            "memberCount": 2,
+            "requestCount": 1,
+            "exp": 884748,
+            "requested": false
+        },
+        {
+            "id": "bLYqkW61rsVdEwZbhBA1",
+            "displayName": "SlofsMansion",
+            "leaderName": "Snarks",
+            "memberCount": 3,
+            "requestCount": 0,
+            "exp": 884467,
+            "requested": false
+        },
+        {
+            "id": "Y08bXzfy3db5pqwxC9Ys",
+            "displayName": "420Chill",
+            "leaderName": "DecRulez96",
+            "memberCount": 1,
+            "requestCount": 0,
+            "requestOptions": {
+                "minExp": 200000,
+                "open": false
+            },
+            "description": "Chill out and spark up",
+            "exp": 871527,
+            "requested": false
+        },
+        {
+            "id": "W8AdQLZayzdLPtT8NE7Y",
+            "displayName": "Furrysupport",
+            "leaderName": "Yogsothauth",
+            "memberCount": 1,
+            "requestCount": 0,
+            "requestOptions": {
+                "minExp": 0,
+                "open": true
+            },
+            "exp": 866465,
+            "requested": false
+        },
+        {
+            "id": "9tUi6yWcmg71ZAZpjho8",
+            "displayName": "TypeZone",
+            "leaderName": "Typekaze",
+            "memberCount": 3,
+            "requestCount": 0,
+            "requestOptions": {
+                "minExp": 5,
+                "open": true
+            },
+            "description": "Super Chill Guild, 30 days off before kick",
+            "exp": 861972,
+            "requested": false
+        },
+        {
+            "id": "09ANrI8Kieojrt1GqBnt",
+            "displayName": "JustForFun",
+            "leaderName": "AndreTimon",
+            "memberCount": 1,
+            "requestCount": 0,
+            "exp": 849490,
+            "requested": false
+        },
+        {
+            "id": "AzVc1CC7zlYcEbQAXhrW",
+            "displayName": "SkibidiSigmas",
+            "leaderName": "Cockmaster69",
+            "memberCount": 3,
+            "requestCount": 0,
+            "requestOptions": {
+                "open": true,
+                "minExp": 0
+            },
+            "description": "We are the skibidi sigma's. We rizzin' up everyones gyatt in ohio.",
+            "exp": 810723,
+            "requested": false
+        },
+        {
+            "id": "h7A5hN7rBkUGuSmCRb4r",
+            "displayName": "INDOMIE",
+            "leaderName": "AyamGeprek",
+            "memberCount": 2,
+            "requestCount": 0,
+            "requestOptions": {
+                "minExp": 69,
+                "open": true
+            },
+            "description": "Main santai",
+            "exp": 790790,
+            "requested": false
+        },
+        {
+            "id": "SrbH7mCzzN2G08rjXF4L",
+            "displayName": "DRAGONS",
+            "leaderName": "HeavensBee",
+            "memberCount": 5,
+            "requestCount": 0,
+            "requestOptions": {
+                "minExp": 0,
+                "open": true
+            },
+            "description": "Welcome to DRAGONS, a casual and cooperative guild. All are welcome!",
+            "exp": 772591,
+            "requested": false
+        },
+        {
+            "id": "fHIbk3nisrI01LxO16Xf",
+            "displayName": "Eclipse",
+            "leaderName": "316ryguy",
+            "memberCount": 1,
+            "requestCount": 0,
+            "requestOptions": {
+                "minExp": 0,
+                "open": true
+            },
+            "exp": 770650,
+            "requested": false
+        },
+        {
+            "id": "qUBgioiSJuFH1wot29Lo",
+            "displayName": "DingYuXi",
+            "leaderName": "croyper",
+            "memberCount": 1,
+            "requestCount": 0,
+            "requestOptions": {
+                "minExp": 0,
+                "open": true
+            },
+            "exp": 726283,
+            "requested": false
+        },
+        {
+            "id": "l5IxSQQj79ZtsCMmTXaf",
+            "displayName": "Elysium",
+            "leaderName": "lootz",
+            "memberCount": 3,
+            "requestCount": 0,
+            "requestOptions": {
+                "minExp": 0,
+                "open": true
+            },
+            "description": "Everyone welcome.",
+            "exp": 721187,
+            "requested": false
+        },
+        {
+            "id": "0OjQGshgJAQsjg44VAhb",
+            "displayName": "FoXi",
+            "leaderName": "Daxei",
+            "memberCount": 1,
+            "requestCount": 0,
+            "requestOptions": {
+                "minExp": 0,
+                "open": true
+            },
+            "exp": 686547,
+            "requested": false
+        },
+        {
+            "id": "L9760DvMJssKUqY7qmob",
+            "displayName": "TheOnlyOne",
+            "leaderName": "Morzat",
+            "memberCount": 1,
+            "requestCount": 0,
+            "description": "Solo Guild",
+            "exp": 672710,
+            "requested": false
+        },
+        {
+            "id": "AnAERPiw9dl6UNPU973C",
+            "displayName": "Level0",
+            "leaderName": "GeoJY",
+            "memberCount": 1,
+            "requestCount": 0,
+            "exp": 651136,
+            "requested": false
+        },
+        {
+            "id": "ippSQvUND082xIWre9bm",
+            "displayName": "arsonists",
+            "leaderName": "Applekid47",
+            "memberCount": 2,
+            "requestCount": 1,
+            "exp": 605328,
+            "requested": false
+        },
+        {
+            "id": "SZ13c3ddhjV2SSu9uLQh",
+            "displayName": "HouseofFlud",
+            "leaderName": "fludpucker",
+            "memberCount": 1,
+            "requestCount": 0,
+            "exp": 598857,
+            "requested": false
+        },
+        {
+            "id": "oi8ThxhGaXLM2tnvFW2w",
+            "displayName": "IronmanIsomer",
+            "leaderName": "Isomer",
+            "memberCount": 1,
+            "requestCount": 2,
+            "exp": 556485,
+            "requested": false
+        },
+        {
+            "id": "DKmBAK7GR6Q3A1sV4qs5",
+            "displayName": "TierZero",
+            "leaderName": "Zelink",
+            "memberCount": 2,
+            "requestCount": 0,
+            "requestOptions": {
+                "minExp": 0,
+                "open": true
+            },
+            "description": "Donate = we all win",
+            "exp": 554528,
+            "requested": false
+        },
+        {
+            "id": "G0Tvxj771AY3MCbDPsjK",
+            "displayName": "SoloLevelingGld",
+            "leaderName": "DonZero",
+            "memberCount": 1,
+            "requestCount": 0,
+            "requestOptions": {
+                "minExp": 60000,
+                "open": false
+            },
+            "exp": 518487,
+            "requested": false
+        },
+        {
+            "id": "SFVt0KblpPbpovFsgQej",
+            "displayName": "BananaThingy",
+            "leaderName": "Konker",
+            "memberCount": 1,
+            "requestCount": 0,
+            "exp": 493262,
+            "requested": false
+        },
+        {
+            "id": "G1fCI1Af7lYyCs8JQXam",
+            "displayName": "Chimay",
+            "leaderName": "Orval",
+            "memberCount": 1,
+            "requestCount": 0,
+            "exp": 491869,
+            "requested": false
+        },
+        {
+            "id": "EGuO4Wcyb8CRrHxaYvGO",
+            "displayName": "chibleefanclub",
+            "leaderName": "sophiesticated",
+            "memberCount": 1,
+            "requestCount": 0,
+            "requestOptions": {
+                "open": true,
+                "minExp": 0
+            },
+            "exp": 483830,
+            "requested": false
+        },
+        {
+            "id": "jRnudC7A1adc4ntobS3t",
+            "displayName": "SilentSkys",
+            "leaderName": "elaina",
+            "memberCount": 1,
+            "requestCount": 0,
+            "description": "Craft, communicate, clatter about in our guild hall. And just try to help each other out as much as you can.",
+            "exp": 479203,
+            "requested": false
+        },
+        {
+            "id": "3aq9VUXRaSnab0tSro9l",
+            "displayName": "AllAlone",
+            "leaderName": "SnailMaster",
+            "memberCount": 1,
+            "requestCount": 0,
+            "requestOptions": {
+                "open": true,
+                "minExp": 0
+            },
+            "exp": 461136,
+            "requested": false
+        },
+        {
+            "id": "wTYnzAcUk3y0vnpje3EW",
+            "displayName": "FUT",
+            "leaderName": "storik",
+            "memberCount": 1,
+            "requestCount": 0,
+            "requestOptions": {
+                "minExp": 0,
+                "open": true
+            },
+            "exp": 442338,
+            "requested": false
+        },
+        {
+            "id": "ROLFOjN7DTzSin7vZ2vA",
+            "displayName": "Zoo",
+            "leaderName": "wapple",
+            "memberCount": 1,
+            "requestCount": 1,
+            "exp": 436700,
+            "requested": false
+        },
+        {
+            "id": "fez2cZu0ksJP4cwMTHav",
+            "displayName": "AfterWork",
+            "leaderName": "Nissa",
+            "memberCount": 1,
+            "requestCount": 0,
+            "requestOptions": {
+                "minExp": 0,
+                "open": true
+            },
+            "description": "Relaxed Guild, no random kick, just have a nice time after Work",
+            "exp": 409631,
+            "requested": false
+        },
+        {
+            "id": "sePABvpOR8XoI1f1LwGP",
+            "displayName": "Prifddinas",
+            "leaderName": "Saviours",
+            "memberCount": 1,
+            "requestCount": 0,
+            "requestOptions": {
+                "minExp": 600000,
+                "open": false
+            },
+            "exp": 388495,
+            "requested": false
+        },
+        {
+            "id": "cF4rjOE5tNcRS6fN0Fbt",
+            "displayName": "SlothingtonAbbey",
+            "leaderName": "RulrOfEvl",
+            "memberCount": 1,
+            "requestCount": 0,
+            "requestOptions": {
+                "minExp": 0,
+                "open": true
+            },
+            "description": "All Sloths Welcome!",
+            "exp": 349297,
+            "requested": false
+        },
+        {
+            "id": "cgKeqbwLdVlTVYolaS9U",
+            "displayName": "KeepIt",
+            "leaderName": "Downxd",
+            "memberCount": 1,
+            "requestCount": 0,
+            "exp": 333169,
+            "requested": false
+        },
+        {
+            "id": "IN94WQiByO7VjkCUKGdf",
+            "displayName": "TheMiningGuild",
+            "leaderName": "NoseyBot",
+            "memberCount": 1,
+            "requestCount": 0,
+            "requestOptions": {
+                "open": false,
+                "minExp": 10000000
+            },
+            "description": "Call me Ea-nasir the way I flood the market with cheap copper. Join us on Revolt: https://rvlt.gg/1PWPnES9",
+            "exp": 332238,
+            "requested": false
+        },
+        {
+            "id": "F0b9Q9kIvav6QDBQ5MP1",
+            "displayName": "IdlersUnited",
+            "leaderName": "Rudy3",
+            "memberCount": 1,
+            "requestCount": 0,
+            "requestOptions": {
+                "minExp": 3000000,
+                "open": false
+            },
+            "description": "For those who keep idling out for no reasons",
+            "exp": 328887,
+            "requested": false
+        },
+        {
+            "id": "rQXCSaogaJZiILKK9Nea",
+            "displayName": "nonbiri",
+            "leaderName": "SStar",
+            "memberCount": 1,
+            "requestCount": 0,
+            "requestOptions": {
+                "open": false,
+                "minExp": 0
+            },
+            "description": "nonbiri mattari",
+            "exp": 314704,
+            "requested": false
+        },
+        {
+            "id": "fAXOuhWkmMbebcGz4OEl",
+            "displayName": "687",
+            "leaderName": "Gintoki",
+            "memberCount": 3,
+            "requestCount": 0,
+            "requestOptions": {
+                "minExp": 0,
+                "open": true
+            },
+            "exp": 306481,
+            "requested": false
+        },
+        {
+            "id": "dLCDtBqaOxg4o9PwZIBm",
+            "displayName": "LAD",
+            "leaderName": "Wolnir",
+            "memberCount": 4,
+            "requestCount": 0,
+            "requestOptions": {
+                "minExp": 0,
+                "open": true
+            },
+            "description": "Gang shit stuff.",
+            "exp": 271868,
+            "requested": false
+        },
+        {
+            "id": "0rijEUMuAmG5dQs3GkMh",
+            "displayName": "Midgard",
+            "leaderName": "SurisCheese",
+            "memberCount": 4,
+            "requestCount": 0,
+            "requestOptions": {
+                "minExp": 0,
+                "open": true
+            },
+            "description": "Be active, donate gold to buildings if possible donate resources ",
+            "exp": 271142,
+            "requested": false
+        },
+        {
+            "id": "qkN2TYZ3yNQLClDCwPmc",
+            "displayName": "Hermitage",
+            "leaderName": "Sariel",
+            "memberCount": 1,
+            "requestCount": 0,
+            "exp": 261027,
+            "requested": false
+        },
+        {
+            "id": "V8eDLkXkbgRCZDHgQ9MH",
+            "displayName": "Just4me",
+            "leaderName": "Jumbawumba",
+            "memberCount": 1,
+            "requestCount": 0,
+            "exp": 254201,
+            "requested": false
+        },
+        {
+            "id": "SUosvSIdZD4FHEOKlrMC",
+            "displayName": "dilletantene",
+            "leaderName": "elranthan",
+            "memberCount": 1,
+            "requestCount": 0,
+            "exp": 250628,
+            "requested": false
+        },
+        {
+            "id": "DItTjVQEj7BS8PzUffQg",
+            "displayName": "StargateSG1",
+            "leaderName": "thePendragon",
+            "memberCount": 1,
+            "requestCount": 0,
+            "requestOptions": {
+                "minExp": 0,
+                "open": true
+            },
+            "description": "Idle. No Discord. Just Idle.",
+            "exp": 246767,
+            "requested": false
+        },
+        {
+            "id": "CNc0iWFLJiaqrsGHbcUJ",
+            "displayName": "Serenity",
+            "leaderName": "Jinbei",
+            "memberCount": 4,
+            "requestCount": 4,
+            "requestOptions": {
+                "minExp": 666,
+                "open": false
+            },
+            "exp": 244136,
+            "requested": false
+        },
+        {
+            "id": "kCJGQCJmD4WSMaLcWTEA",
+            "displayName": "Egg",
+            "leaderName": "Egbert",
+            "memberCount": 1,
+            "requestCount": 2,
+            "description": "Egg (Solo Guild)",
+            "exp": 228397,
+            "requested": false
+        },
+        {
+            "id": "ITeWWkAcCdlwTCYpw1TZ",
+            "displayName": "CrystalTwisters",
+            "leaderName": "Ragoll",
+            "memberCount": 1,
+            "requestCount": 0,
+            "requestOptions": {
+                "minExp": 0,
+                "open": false
+            },
+            "description": "No Discord, no fruit-basket with fresh apples, no parties. Just ideally/idyllicly/idly getting those numbers up. ",
+            "exp": 218767,
+            "requested": false
+        },
+        {
+            "id": "RyTAmhkxQcTt8dyTp6A7",
+            "displayName": "OneManArmy",
+            "leaderName": "QuantumZx",
+            "memberCount": 1,
+            "requestCount": 0,
+            "exp": 217032,
+            "requested": false
+        },
+        {
+            "id": "sXtuQ1fGNFPBHovJxRcK",
+            "displayName": "SleepingDanger",
+            "leaderName": "GoddessOfSleep",
+            "memberCount": 1,
+            "requestCount": 1,
+            "exp": 194387,
+            "requested": false
+        },
+        {
+            "id": "43k5qiRcPuKym2G38lAb",
+            "displayName": "TheBarn",
+            "leaderName": "Sheep",
+            "memberCount": 1,
+            "requestCount": 0,
+            "description": "Ironman Guild- No merchant, market, tutorial",
+            "exp": 183033,
+            "requested": false
+        },
+        {
+            "id": "1yJEzkDd4Mn0k1UeUa0D",
+            "displayName": "SkillGuild",
+            "leaderName": "Nugget4026",
+            "memberCount": 5,
+            "requestCount": 0,
+            "requestOptions": {
+                "minExp": 0,
+                "open": true
+            },
+            "description": "A guild centered around for each person to level up a individual skill set instead of all so that everyone contributes something different",
+            "exp": 153457,
+            "requested": false
+        },
+        {
+            "id": "yYrYh3S5oQ2gMyJj998z",
+            "displayName": "TouchOfBlue",
+            "leaderName": "xbYdx",
+            "memberCount": 1,
+            "requestCount": 0,
+            "exp": 152478,
+            "requested": false
+        },
+        {
+            "id": "GcPfGQFagO49YVh1dpye",
+            "displayName": "CEC",
+            "leaderName": "Ardriel",
+            "memberCount": 2,
+            "requestCount": 2,
+            "exp": 150438,
+            "requested": false
+        },
+        {
+            "id": "7iQpyT01qgvkxqPe0MYA",
+            "displayName": "SoloSkiller",
+            "leaderName": "allnamestaken",
+            "memberCount": 1,
+            "requestCount": 0,
+            "exp": 147929,
+            "requested": false
+        },
+        {
+            "id": "2J6CpgEpGKA1WOqLhS82",
+            "displayName": "LoreHunters",
+            "leaderName": "Lore",
+            "memberCount": 1,
+            "requestCount": 0,
+            "exp": 132790,
+            "requested": false
+        },
+        {
+            "id": "11w6nT7wYsfs9pRq99e8",
+            "displayName": "SoloF2W",
+            "leaderName": "z3r0d3l30",
+            "memberCount": 1,
+            "requestCount": 1,
+            "exp": 120552,
+            "requested": false
+        },
+        {
+            "id": "hFmbSf1MWk5Q7RnEK275",
+            "displayName": "MeMyselfandI",
+            "leaderName": "kevinkong",
+            "memberCount": 1,
+            "requestCount": 0,
+            "exp": 115407,
+            "requested": false
+        },
+        {
+            "id": "O1F0YxWplfLakPxRXjhs",
+            "displayName": "Solo",
+            "leaderName": "177013",
+            "memberCount": 1,
+            "requestCount": 0,
+            "requestOptions": {
+                "minExp": 99999999,
+                "open": true
+            },
+            "exp": 111901,
+            "requested": false
+        },
+        {
+            "id": "G8MBZRCi7zaiYYOFwAGN",
+            "displayName": "Celestial",
+            "leaderName": "Cymos",
+            "memberCount": 2,
+            "requestCount": 0,
+            "requestOptions": {
+                "minExp": 0,
+                "open": true
+            },
+            "exp": 109743,
+            "requested": false
+        },
+        {
+            "id": "ov8aQEElsNSJ4tBZpNcl",
+            "displayName": "TheHellions",
+            "leaderName": "Drathmor",
+            "memberCount": 3,
+            "requestCount": 0,
+            "exp": 97614,
+            "requested": false
+        },
+        {
+            "id": "pZmIoSAQG0Van9Zy2vgg",
+            "displayName": "29no92",
+            "leaderName": "Jus61",
+            "memberCount": 9,
+            "requestCount": 0,
+            "requestOptions": {
+                "minExp": 200000000,
+                "open": false
+            },
+            "exp": 88507,
+            "requested": false
+        },
+        {
+            "id": "4nUk5JyHVxhW5IOnU4NU",
+            "displayName": "Crepuscule",
+            "leaderName": "WarchaiII",
+            "memberCount": 6,
+            "requestCount": 0,
+            "requestOptions": {
+                "minExp": 0,
+                "open": true
+            },
+            "exp": 76940,
+            "requested": false
+        },
+        {
+            "id": "N6DGdOz1u1LPs7RpxNHq",
+            "displayName": "DivideByZero",
+            "leaderName": "CurvyPawgGoddess",
+            "memberCount": 2,
+            "requestCount": 2,
+            "exp": 60439,
+            "requested": false
+        },
+        {
+            "id": "NCaamsWnBS5W7qK1Qh7N",
+            "displayName": "south",
+            "leaderName": "WasillaWarriors",
+            "memberCount": 1,
+            "requestCount": 4,
+            "requestOptions": {
+                "minExp": 0,
+                "open": false
+            },
+            "exp": 41064,
+            "requested": false
+        },
+        {
+            "id": "kjiABI0taApIMiDb97Ou",
+            "displayName": "Szubrawcy",
+            "leaderName": "Drakenkorin",
+            "memberCount": 1,
+            "requestCount": 7,
+            "exp": 27400,
+            "requested": false
+        },
+        {
+            "id": "96A7lxnrSqrVBrqsUdB5",
+            "displayName": "SoloGuild",
+            "leaderName": "strugglepidgeon",
+            "memberCount": 1,
+            "requestCount": 0,
+            "requestOptions": {
+                "minExp": 200000000,
+                "open": false
+            },
+            "description": "The 200m XP is to block requests, as this is a solo guild. No admittance.",
+            "exp": 22215,
+            "requested": false
+        },
+        {
+            "id": "GsfKDLHtcKfy6Joq8Qgs",
+            "displayName": "Relax",
+            "leaderName": "onlytemp",
+            "memberCount": 1,
+            "requestCount": 3,
+            "exp": 21717,
+            "requested": false
+        },
+        {
+            "id": "rIxGAI9HLa0kyiSAHxV3",
+            "displayName": "GatheringSquad",
+            "leaderName": "ButterCooks",
+            "memberCount": 2,
+            "requestCount": 0,
+            "requestOptions": {
+                "minExp": 50000000,
+                "open": false
+            },
+            "exp": 20086,
+            "requested": false
+        },
+        {
+            "id": "cDft6McMiumVxTXuENGr",
+            "displayName": "IvoryTower",
+            "leaderName": "Billyrob",
+            "memberCount": 1,
+            "requestCount": 4,
+            "exp": 16085,
+            "requested": false
+        },
+        {
+            "id": "TxZ4fAEly1i7gPjnC0bM",
+            "displayName": "lll",
+            "leaderName": "muegge",
+            "memberCount": 1,
+            "requestCount": 5,
+            "exp": 0,
+            "requested": false
+        }
+    ]
+}
