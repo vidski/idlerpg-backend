@@ -1,26 +1,10 @@
 import hashlib
 import math
 
-from apps.actions.models import ActionReward
 
-
-def calculate_loot(seed, duration, action):
-    """
-    Optimized loot calculation based on action duration and rewards.
-
-    Args:
-        seed (str): Unique seed for RNG
-        duration (int): Duration in seconds
-        action (Action): Action model instance
-
-    Returns:
-        dict: Dictionary of item IDs and quantities
-    """
+def calculate_loot(seed, duration, action, rewards):
     # Calculate the number of completed actions
     actions_completed = math.floor(duration / action.duration)
-
-    # Fetch action rewards
-    rewards = list(ActionReward.objects.filter(action=action))
 
     # Initialize loot dictionary
     loot = {}

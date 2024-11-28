@@ -45,6 +45,7 @@ INSTALLED_APPS = [
     'apps.combat',
     'apps.actions',
     'apps.quests',
+    'apps.market',
     'apps.state',
     'apps.logs',
 ]
