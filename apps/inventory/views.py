@@ -1,9 +1,12 @@
+from django.db import transaction
+from django.db.models import F
 from rest_framework import generics
 from rest_framework.response import Response
 from rest_framework.views import APIView
 
 from .models import InventoryItem
 from .serializers import InventoryItemSerializer
+from ..currencies.models import UserCurrencies
 
 
 class InventoryItemListView(generics.ListAPIView):
@@ -19,10 +22,16 @@ class SellItemView(APIView):
     def post(self, request):
         item_id = request.data.get('id')
         quantity = request.data.get('quantity')
-        item = InventoryItem.objects.get(id=item_id, user_id=request.user.id)
-        item.quantity -= quantity
-        if item.quantity == 0:
-            item.delete()
-        else:
-            item.save()
+        with transaction.atomic():
+            inventory_item = InventoryItem.objects.select_related('item').get(id=item_id, user_id=request.user.id)
+            inventory_item.quantity -= quantity
+            if inventory_item.quantity < 0:
+                return Response({"error": "Not enough items to sell"}, status=400)
+
+            if inventory_item.quantity == 0:
+                inventory_item.delete()
+            else:
+                inventory_item.save(update_fields=['quantity'])
+
+            UserCurrencies.objects.update(user_id=request.user.id, gold=F('gold') + inventory_item.item.sell_price * quantity)
         return Response({"message": "Item sold successfully"})

@@ -41,6 +41,7 @@ INSTALLED_APPS = [
     'apps.items',
     'apps.inventory',
     'apps.equipment',
+    'apps.currencies',
     'apps.skills',
     'apps.combat',
     'apps.actions',

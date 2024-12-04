@@ -14,7 +14,7 @@ class Item(models.Model):
         ('accessory', 'Accessory'),
         ('misc', 'Miscellaneous')
     ])
-    base_value = models.PositiveIntegerField(default=0)
+    sell_price = models.PositiveIntegerField(default=0)
     rarity = models.CharField(max_length=50, choices=[
         ('common', 'Common'),
         ('rare', 'Rare'),

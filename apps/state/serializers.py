@@ -3,6 +3,7 @@ from rest_framework import serializers
 from apps.actions.models import UserAction
 from apps.actions.serializers import ActionStateSerializer
 from apps.authentication.models import User
+from apps.currencies.serializers import UserCurrenciesSerializer
 from apps.equipment.serializers import EquippedItemSerializer
 from apps.inventory.serializers import MinimalInventoryItemSerializer
 from apps.skills.serializers import SkillProgressSerializer
@@ -11,6 +12,7 @@ from apps.skills.serializers import SkillProgressSerializer
 class UserStateSerializer(serializers.ModelSerializer):
     inventory = MinimalInventoryItemSerializer(many=True, read_only=True)
     equipment = EquippedItemSerializer(read_only=True, source='loadout')
+    currencies = UserCurrenciesSerializer(read_only=True)
     skill_progress = SkillProgressSerializer(many=True, read_only=True)
     action = ActionStateSerializer(read_only=True)
 
@@ -23,6 +25,7 @@ class UserStateSerializer(serializers.ModelSerializer):
             'is_active',
             'inventory',
             'equipment',
+            'currencies',
             'skill_progress',
             'action',
         ]
