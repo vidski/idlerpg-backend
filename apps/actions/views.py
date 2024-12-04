@@ -5,15 +5,15 @@ from rest_framework.response import Response
 from rest_framework.views import APIView
 
 from apps.actions.models import Action, UserAction
-from apps.state.serializers import UserStateSerializer
+from apps.state.utils import get_user_state
 
 
 class StartActionAPI(APIView):
     permission_classes = [IsAuthenticated]
 
     def post(self, request):
-        skill_id = request.data.get('skillId')
-        action_id = request.data.get('actionId')
+        skill_id = request.data.get('skill_id')
+        action_id = request.data.get('action_id')
 
         action = get_object_or_404(Action, id=action_id, skill_id=skill_id)
 
@@ -36,17 +36,21 @@ class StartActionAPI(APIView):
         )
 
         # Use state serializer to return full user state
-        serializer = UserStateSerializer(request.user)
-        return Response(serializer.data)
+        response_data = get_user_state(request.user.id)
+        return Response(response_data)
 
 
 class StopActionAPI(APIView):
     permission_classes = [IsAuthenticated]
 
     def post(self, request):
-        user_action = get_object_or_404(UserAction.objects.select_related('action', 'skill'), user=request.user)
+        user_action = get_object_or_404(UserAction, user=request.user)
 
         if not user_action:
             return Response({"error": "No active action found"}, status=400)
 
         user_action.complete()
+
+        # Use state serializer to return full user state
+        response_data = get_user_state(request.user.id)
+        return Response(response_data)

@@ -56,25 +56,25 @@ class UserViewSet(mixins.CreateModelMixin, viewsets.GenericViewSet):
             400: UserCurrentErrorSerializer,
         }
     )
-    @action(["get", "put", "patch"], detail=False)
+    @action(["get"], detail=False)
     def me(self, request, *args, **kwargs):
         if request.method == "GET":
             serializer = self.get_serializer(self.request.user)
             return Response(serializer.data)
-        elif request.method == "PUT":
-            serializer = self.get_serializer(
-                self.request.user, data=request.data, partial=False
-            )
-            serializer.is_valid(raise_exception=True)
-            serializer.save()
-            return Response(serializer.data)
-        elif request.method == "PATCH":
-            serializer = self.get_serializer(
-                self.request.user, data=request.data, partial=True
-            )
-            serializer.is_valid(raise_exception=True)
-            serializer.save()
-            return Response(serializer.data)
+        # elif request.method == "PUT":
+        #     serializer = self.get_serializer(
+        #         self.request.user, data=request.data, partial=False
+        #     )
+        #     serializer.is_valid(raise_exception=True)
+        #     serializer.save()
+        #     return Response(serializer.data)
+        # elif request.method == "PATCH":
+        #     serializer = self.get_serializer(
+        #         self.request.user, data=request.data, partial=True
+        #     )
+        #     serializer.is_valid(raise_exception=True)
+        #     serializer.save()
+        #     return Response(serializer.data)
 
     @extend_schema(
         responses={

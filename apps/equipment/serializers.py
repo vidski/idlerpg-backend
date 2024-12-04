@@ -1,5 +1,6 @@
 from rest_framework import serializers
-from .models import EquippedItem
+
+from apps.equipment.models import UserLoadout
 from apps.inventory.serializers import InventoryItemSerializer
 
 class EquippedItemSerializer(serializers.ModelSerializer):
@@ -12,5 +13,5 @@ class EquippedItemSerializer(serializers.ModelSerializer):
     accessory = InventoryItemSerializer(read_only=True)
 
     class Meta:
-        model = EquippedItem
+        model = UserLoadout
         fields = ['user', 'weapon', 'armor', 'helmet', 'boots', 'ring_left', 'ring_right', 'accessory']

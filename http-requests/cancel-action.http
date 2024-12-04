@@ -1,7 +1,0 @@
-run auth.http
-
-###
-
-POST http://localhost:8000/cancel-action/
-Authorization: Bearer {{auth_token}}
-Content-Type: application/json

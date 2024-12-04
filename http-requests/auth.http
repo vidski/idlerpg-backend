@@ -1,9 +1,0 @@
-POST http://localhost:8000/api/token/
-Content-Type: application/json
-
-{
-  "username": "admin",
-  "password": "admin"
-}
-
-> {% client.global.set("auth_token", response.body.access); %}

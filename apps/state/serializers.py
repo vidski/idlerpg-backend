@@ -1,18 +1,18 @@
 from rest_framework import serializers
 
 from apps.actions.models import UserAction
+from apps.actions.serializers import ActionStateSerializer
 from apps.authentication.models import User
 from apps.equipment.serializers import EquippedItemSerializer
-from apps.inventory.serializers import InventoryItemSerializer
+from apps.inventory.serializers import MinimalInventoryItemSerializer
 from apps.skills.serializers import SkillProgressSerializer
-from apps.actions.serializers import ActionStateSerializer
 
 
 class UserStateSerializer(serializers.ModelSerializer):
-    inventory = InventoryItemSerializer(many=True, read_only=True)
+    inventory = MinimalInventoryItemSerializer(many=True, read_only=True)
     equipment = EquippedItemSerializer(read_only=True, source='loadout')
     skill_progress = SkillProgressSerializer(many=True, read_only=True)
-    action = serializers.SerializerMethodField()
+    action = ActionStateSerializer(read_only=True)
 
     class Meta:
         model = User
@@ -24,7 +24,7 @@ class UserStateSerializer(serializers.ModelSerializer):
             'inventory',
             'equipment',
             'skill_progress',
-            'action'
+            'action',
         ]
 
     def get_action(self, obj):

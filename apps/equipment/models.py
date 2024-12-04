@@ -2,7 +2,7 @@ from django.conf import settings
 from django.db import models
 
 
-class EquippedItem(models.Model):
+class UserLoadout(models.Model):
     user = models.OneToOneField(settings.AUTH_USER_MODEL, on_delete=models.CASCADE, related_name='loadout')
     weapon = models.OneToOneField(
         'inventory.InventoryItem', on_delete=models.SET_NULL, null=True, blank=True, related_name='equipped_as_weapon'

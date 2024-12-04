@@ -10,3 +10,9 @@ class InventoryItemSerializer(serializers.ModelSerializer):
     class Meta:
         model = InventoryItem
         fields = ['item', 'quantity', 'durability', 'custom_name']
+
+
+class MinimalInventoryItemSerializer(serializers.ModelSerializer):
+    class Meta:
+        model = InventoryItem
+        fields = ['id', 'item_id', 'quantity']

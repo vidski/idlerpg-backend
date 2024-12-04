@@ -90,7 +90,7 @@ class UserCreateSerializer(serializers.ModelSerializer):
 
     class Meta:
         model = User
-        fields = ["username", "password", "password_retype"]
+        fields = ["username", "password", "password_retype", "email"]
 
     def validate(self, attrs):
         password_retype = attrs.pop("password_retype")
@@ -108,11 +108,9 @@ class UserCreateSerializer(serializers.ModelSerializer):
     def create(self, validated_data):
         with transaction.atomic():
             user = User.objects.create_user(**validated_data)
-
-            # By default newly registered accounts are inactive.
-            user.is_active = False
-            user.save(update_fields=["is_active"])
-
+            # TODO implement user verify to active account
+            # user.is_active = False
+            # user.save(update_fields=["is_active"])
         return user
 
 
