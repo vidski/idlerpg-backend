@@ -10,7 +10,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 
 SECRET_KEY = config('SECRET_KEY', 'de80a4a429d7b9838b64ae1573f401a868f2ea46e6155742dff11b43362febd6')
 
-DEBUG = config('DEBUG', False)
+DEBUG = True if config('DEBUG') == 'True' else False
 
 ALLOWED_HOSTS = ['localhost', 'api', '127.0.0.1', '0.0.0.0', 'api-eu.vidski.dev']
 
@@ -206,10 +206,12 @@ HUEY = {
 
 CSRF_TRUSTED_ORIGINS = [
     'https://*.vidski.dev',
+    'https://api-eu.vidski.dev',
     'https://idle.vidski.dev'
 ]
 CORS_ALLOWED_ORIGINS = [
     'https://*.vidski.dev',
+    'https://api-eu.vidski.dev',
     'https://idle.vidski.dev'
 ]
 
