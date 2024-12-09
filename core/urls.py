@@ -8,6 +8,7 @@ from apps.actions.views import StartActionAPI, StopActionAPI
 from apps.authentication.views import UserViewSet
 from apps.inventory.views import SellItemView
 from apps.items.views import ItemViewSet
+from apps.merchants.views import BuyItemView
 from apps.state.views import UserStateAPI
 
 router = DefaultRouter()
@@ -24,4 +25,5 @@ urlpatterns = [
     path('api/stop-action/', StopActionAPI.as_view(), name='stop-action'),
     path('api/me/', UserStateAPI.as_view(), name='user-state'),
     path('api/sell-item/', SellItemView.as_view(), name='sell-item'),
+    path('api/buy-item/', BuyItemView.as_view(), name='buy-item'),
 ]

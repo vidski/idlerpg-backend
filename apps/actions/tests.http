@@ -2,8 +2,8 @@ POST http://localhost:8000/api/token/
 Content-Type: application/json
 
 {
-  "username": "admin",
-  "password": "admin"
+  "username": "Vidski5",
+  "password": "Alphagunlol!339"
 }
 
 > {%
@@ -41,3 +41,28 @@ Authorization: Bearer {{auth_token}}
 GET http://localhost:8000/api/items/
 Content-Type: application/json
 Authorization: Bearer {{auth_token}}
+
+
+
+###
+
+POST localhost:8000/api/buy-item/
+Content-Type: application/json
+Authorization: Bearer {{auth_token}}
+
+{
+  "id": 1,
+  "quantity": 10
+}
+
+
+###
+
+POST localhost:8000/api/sell-item/
+Content-Type: application/json
+Authorization: Bearer {{auth_token}}
+
+{
+  "id": 1,
+  "quantity": 10
+}

@@ -5,7 +5,6 @@ from rest_framework.views import APIView
 from apps.state.utils import get_user_state
 
 
-# Create your views here.
 class UserStateAPI(APIView):
     permission_classes = [IsAuthenticated]
 

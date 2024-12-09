@@ -1,0 +1,31 @@
+name: Build & Publish
+
+on:
+  push:
+    branches:
+      - "**"             # all branches
+      - "!dependabot/**"      # exclude dependbot branches
+  workflow_dispatch:      # Manually run the workflow
+
+jobs:
+  build:
+    if: ${{ github.event_name == 'workflow_dispatch' }}       # Run only if triggered manually
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Login to GitHub Container Registry
+        uses: docker/login-action@v1
+        with:
+          registry: ghcr.io
+          username: vidski
+          password: ${{ secrets.CR_PAT }}
+      - name: Build and Push Docker Image
+        run: |
+          export CURRENT_BRANCH=${GITHUB_REF#refs/heads/}
+          export TAG=$([[ $CURRENT_BRANCH == "main" ]] && echo "latest" || echo "development")
+          export GITHUB_REF_IMAGE=ghcr.io/$GITHUB_REPOSITORY:$GITHUB_SHA
+          export GITHUB_BRANCH_IMAGE=ghcr.io/$GITHUB_REPOSITORY:$TAG
+          docker build -t $GITHUB_REF_IMAGE -t $GITHUB_BRANCH_IMAGE . --file Dockerfile
+          echo "Pushing Image to GitHub Container Registry"
+          docker push $GITHUB_REF_IMAGE
+          docker push $GITHUB_BRANCH_IMAGE

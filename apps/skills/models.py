@@ -13,7 +13,7 @@ class Skill(models.Model):
 
 class SkillProgress(models.Model):
     skill = models.ForeignKey('skills.Skill', on_delete=models.CASCADE)
-    user = models.ForeignKey('authentication.User', on_delete=models.CASCADE, related_name='skill_progress')
+    user = models.ForeignKey('authentication.User', on_delete=models.CASCADE, related_name='skills')
     experience = models.IntegerField(default=0)
 
     def __str__(self):

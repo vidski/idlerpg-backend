@@ -33,5 +33,6 @@ class SellItemView(APIView):
             else:
                 inventory_item.save(update_fields=['quantity'])
 
-            UserCurrencies.objects.update(user_id=request.user.id, gold=F('gold') + inventory_item.item.sell_price * quantity)
+            UserCurrencies.objects.filter(user_id=request.user.id).update(
+                gold=F('gold') + inventory_item.item.sell_price * quantity)
         return Response({"message": "Item sold successfully"})

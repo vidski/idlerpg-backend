@@ -5,10 +5,11 @@ from apps.state.serializers import UserStateSerializer
 def get_user_state(user_id):
     user = User.objects.select_related(
         'action',
-        'loadout'
+        'loadout',
+        'currencies'
     ).prefetch_related(
         'inventory',
-        'skill_progress'
+        'skills',
     ).get(id=user_id)
 
     return UserStateSerializer(user).data

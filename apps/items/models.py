@@ -15,6 +15,7 @@ class Item(models.Model):
         ('misc', 'Miscellaneous')
     ])
     sell_price = models.PositiveIntegerField(default=0)
+    image_name = models.CharField(max_length=100, blank=True, null=True)
     rarity = models.CharField(max_length=50, choices=[
         ('common', 'Common'),
         ('rare', 'Rare'),

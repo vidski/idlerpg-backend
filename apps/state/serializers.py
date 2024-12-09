@@ -13,7 +13,7 @@ class UserStateSerializer(serializers.ModelSerializer):
     inventory = MinimalInventoryItemSerializer(many=True, read_only=True)
     equipment = EquippedItemSerializer(read_only=True, source='loadout')
     currencies = UserCurrenciesSerializer(read_only=True)
-    skill_progress = SkillProgressSerializer(many=True, read_only=True)
+    skills = SkillProgressSerializer(many=True, read_only=True)
     action = ActionStateSerializer(read_only=True)
 
     class Meta:
@@ -26,7 +26,7 @@ class UserStateSerializer(serializers.ModelSerializer):
             'inventory',
             'equipment',
             'currencies',
-            'skill_progress',
+            'skills',
             'action',
         ]
 
