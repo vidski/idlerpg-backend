@@ -135,7 +135,17 @@ USE_TZ = True
 ######################################################################
 # Staticfiles
 ######################################################################
-STATIC_URL = 'static/'
+STORAGES = {
+    'staticfiles': {
+        'BACKEND': 'django.contrib.staticfiles.storage.StaticFilesStorage',
+        'OPTIONS': {
+            'base_url': '/static/',
+            'location': f'{BASE_DIR}/staticfiles'
+        }
+    },
+}
+STATIC_URL = '/static/'
+STATIC_ROOT = f'{BASE_DIR}/staticfiles'
 
 ######################################################################
 # Rest Framework
