@@ -8,7 +8,7 @@ from decouple import config
 ######################################################################
 BASE_DIR = Path(__file__).resolve().parent.parent
 
-SECRET_KEY = config('SECRET_KEY', 'de80a4a429d7b9838b64ae1573f401a868f2ea46e6155742dff11b43362febd6')
+SECRET_KEY = config('SECRET_KEY')
 
 DEBUG = True if config('DEBUG') == 'True' else False
 
@@ -218,4 +218,4 @@ CORS_ALLOWED_ORIGINS = [
 if DEBUG:
     CORS_ALLOW_ALL_ORIGINS = True
     CORS_ALLOW_CREDENTIALS = True
-    CSRF_TRUSTED_ORIGINS = ['http://127.0.0.1:5173']
+    CSRF_TRUSTED_ORIGINS = ['http://127.0.0.1:5173', 'http://localhost:5173', 'http://localhost']

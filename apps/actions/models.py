@@ -1,12 +1,10 @@
-from random import random
-
 from django.db import models
 from django.utils import timezone
 
 from apps.inventory.models import InventoryItem
-from apps.items.utils import calculate_loot
 from apps.logs.models import InventoryLog
 from apps.skills.models import SkillProgress
+from core.utils import SplitMix64
 
 
 class ActionTypes(models.TextChoices):
@@ -56,35 +54,73 @@ class UserAction(models.Model):
     start_date = models.DateTimeField()
 
     def complete(self):
-        end_date = timezone.now()
-        duration = (end_date - self.start_date).total_seconds()
+        # Calculate duration
+        elapsed_time = (timezone.now() - self.start_date).total_seconds()
+        action_duration = self.action.duration
+        action_count = int(elapsed_time // action_duration)
 
-        # Calculate experience
-        experience = (duration / self.action.duration) * self.action.experience
-        loot = calculate_loot(self.seed, int(duration), self.action, list(ActionReward.objects.filter(action=self.action)))
+        if action_count <= 0:
+            self.delete()
+            return None
 
-        # Add loot to inventory and log
-        for index, item in loot.items():
-            inventory_item, created = InventoryItem.objects.get_or_create(
-                user=self.user, item_id=item.get('id'),
-                defaults={'quantity': 0}
+        # Aggregate rewards
+        action_rewards = ActionReward.objects.filter(action=self.action)
+        rng = SplitMix64(int(self.seed))
+        total_loot = {}
+
+        for _ in range(action_count):  # Process each cycle independently
+            for reward in action_rewards:
+                if rng.next_float() <= reward.drop_rate:  # Independent drop chance per action
+                    quantity = rng.next_int(1, reward.quantity)
+                    total_loot[reward.item_id] = total_loot.get(reward.item_id, 0) + quantity
+
+        # Batch inventory updates
+        existing_inventory = InventoryItem.objects.filter(user=self.user, item_id__in=total_loot.keys())
+        existing_inventory_map = {item.item_id: item for item in existing_inventory}
+
+        items_to_update = []
+        items_to_create = []
+        logs = []
+
+        for item_id, quantity in total_loot.items():
+            if item_id in existing_inventory_map:
+                inventory_item = existing_inventory_map[item_id]
+                inventory_item.quantity += quantity
+                items_to_update.append(inventory_item)
+            else:
+                items_to_create.append(
+                    InventoryItem(
+                        user=self.user,
+                        item_id=item_id,
+                        quantity=quantity
+                    )
+                )
+
+            # Create a log entry
+            logs.append(
+                InventoryLog(
+                    user=self.user,
+                    item_id=item_id,
+                    change=quantity,
+                    reason="Mining reward"
+                )
             )
-            inventory_item.quantity += item.get('quantity')
-            inventory_item.save()
-            InventoryLog.objects.create(
-                user=self.user, item_id=item.get('id'), change=item.get('quantity'), reason=f"Action reward from {self.action.name}"
-            )
 
-        # Create or update SkillProgress
-        skill_progress, created = SkillProgress.objects.get_or_create(
-            user=self.user, skill=self.skill,
-            defaults={'experience': 0}
-        )
-        if not created:
-            skill_progress.experience += experience
-            skill_progress.save()
+        if items_to_update:
+            InventoryItem.objects.bulk_update(items_to_update, ['quantity'])
+        if items_to_create:
+            InventoryItem.objects.bulk_create(items_to_create)
+        if logs:
+            InventoryLog.objects.bulk_create(logs)
 
-        # Delete the UserAction
+        # Clean up user action
         self.delete()
 
-        return loot
+        # Prepare readable loot for response
+        loot_response = [
+            {"item": reward.item.name, "quantity": total_loot[reward.item_id]}
+            for reward in action_rewards
+            if reward.item_id in total_loot
+        ]
+
+        return loot_response

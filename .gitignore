@@ -1,0 +1,44 @@
+# byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# tests and coverage
+*.pytest_cache
+.coverage
+
+# database & logs
+*.db
+*.sqlite3
+*.log
+
+.env
+
+# venv
+env
+venv
+
+# other
+.DS_Store
+
+# javascript
+package-lock.json
+
+staticfiles/*
+!staticfiles/.gitkeep 
+.vscode/symbols.json
+
+.history
+.vscode
+.idea
+/media/
+staticfiles
+core/staticfiles/*
+core.sock
+/protected/
+node_modules
+db_dump.*
+uploads
+pnpm-lock.yaml
+/example_data/
+dumpdata.json
+/static/src/output.css

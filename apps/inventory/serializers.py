@@ -13,6 +13,7 @@ class InventoryItemSerializer(serializers.ModelSerializer):
 
 
 class MinimalInventoryItemSerializer(serializers.ModelSerializer):
+
     class Meta:
         model = InventoryItem
         fields = ['id', 'item_id', 'quantity']
